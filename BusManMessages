@@ -58,7 +58,8 @@ g/.*Apr 01.*/I hope you all enjoyed April Fools Day. Now, let's go home!/10000
 ### General messages
 w//garth/Hey, it's Garth! Rock on, dude!/100
 r//garth/Yo Garth! Rock on home, dude!//100
-w//duga/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/100
+w//duga/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/25
+w//duga/Hey, Brady. Where is your bunch?/50
 r/.*Thu.*/duga/Thank frigg it's thorn, eh %s?//1000
 
 w/.*Mon.*//How was your weekend, %s?/10
