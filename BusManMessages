@@ -35,6 +35,13 @@
 #w///!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/100000
 #r///Welcome back to Sky net %s. Please take a seat//100000
 
+### St Patrick's Day messages
+w/.*Mar 17.*//Top of the morning to you, %s!/25
+w/.*Mar 17.*//Happy Saint Patrick's Day, %s!/25
+w/.*Mar 17.*/seancraig|pmoench/%s sounds like a good Irish name!/100
+w/.*Mar 17.*//%s might be a good Irish name!/25
+w/.*Mar 17.*//Are you wearing any green today, %s?/25
+
 ### April Fool's messages
 w/.*Apr 01.*/garth/Hey it's %s! Rock on, dude!/1000000
 r/.*Apr 01.*/garth/Yo %s! Rock on home, dude!//1000000
