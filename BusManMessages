@@ -67,7 +67,8 @@ w//garth/Hey, it's Garth! Rock on, dude!/100
 r//garth/Yo Garth! Rock on home, dude!//100
 w//duga/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/25
 w//duga/Hey, Brady. Where is your bunch?/20
-r/.*Thu.*/duga/Thank frigg it's thorn, eh %s?//400
+r/.*Thu.*/duga/Thank frigg it's thor's day, eh %s?//200
+r/.*Thu.*/duga/Tee eff eye thorn %s//300
 
 w/.*Mon.*//How was your weekend, %s?/10
 w///welcome %s/10
