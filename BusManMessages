@@ -58,6 +58,10 @@ w/.*Apr 01.*//!locale(fr_FR)Salut %s. Bienvenue!/10000
 w/.*Apr 01.*//!locale(de_DE)Hallo %s. Herzlich Willkommen!/10000
 r/.*Apr 01.*//Welcome back to Sky net %s. Please take a seat//200
 r/.*Apr 01.*//Your advertising message could go here, %s. Call me!//200
+r/.*Apr 01.*//Click here to promote your website %s//200
+r/.*Apr 01.*//Hey %s, where is my coffee?//200
+r/.*Apr 01.*//Where have you been %s?//200
+r/.*Apr 01.*//Did you remember to lock your car %s?//200
 r/.*Apr 01.*//Hey %s, the last one in is a rotten egg!/t/100000
 
 g/.*Apr 01.*/I hope you all enjoyed April Fools Day. Now, let's go home!/10000
