@@ -151,7 +151,7 @@ r/.*May 04.*//Obi-Wan has taught you well, %//2000000
 r/.*May 04.*//The force is strong with this one, %//1000000
 r/.*May 04.*//Great shot %, that was one in a million//1000000
 r/.*May 04.*//I suggest a new strategy, %: let the Wookiee win//1000000
-r/.*May 04.*//Remember,,, the Force will be with you, always//2000000
+g/.*May 04.*//Remember,,, the Force will be with you, always. Now, let's make the jump to light speed!//2000000
 
 ### General messages
 w//garth/Hey, it's Garth! Rock on, dude!/100
