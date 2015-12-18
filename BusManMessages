@@ -67,7 +67,6 @@ r/.*Apr 01.*//Hey %s, the last one in is a rotten egg!/t/100000
 g/.*Apr 01.*/I hope you all enjoyed April Fools Day. Now, let's go home!/10000
 
 ### Force Awakens
-g/.*Dec 18.*//Remember,,, the Force will be with you, always. Now, let's make the jump to light speed//2000000
 r/.*Dec 18.*//%s, Aren't you a little short for a storm trooper?//1000000
 r/.*Dec 18.*//A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations//2000000
 r/.*Dec 18.*//Ahh, hard to see, the Dark Side is//1000000
@@ -108,49 +107,50 @@ w/.*Dec 18.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder/1000000
 w/.*Dec 18.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*Dec 18.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
+g/.*Dec 18.*//I hope you all enjoyed The Force Awakens. Now, let's make the jump to light speed/2000000
 
-### May the Forth
-w/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
-r/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
-w/.*May 04.*//May the force be with you %s//1000000
-r/.*May 04.*//May the force be with you %s//1000000
-w/.*May 04.*//These aren't the droids you are looking for %s//1000000
-r/.*May 04.*//These aren't the droids you are looking for %s//1000000
-w/.*May 04.*//When 900 years old, you reach, look as good, you will not//1000000
-w/.*May 04.*//He’s holding a thermal detonator!//1000000
-w/.*May 04.*//I sense great fear in you, Skywalker//1000000
-w/.*May 04.*//Great, kid. Don’t get cocky//1000000
-w/.*May 04.*//Great, %s. Don’t get cocky//1000000
-w/.*May 04.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine//1000000
-w/.*May 04.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine//1000000
-w/.*May 04.*//It's a trap, %s!//1000000
-w/.*May 04.*//%s, Aren't you a little short for a storm trooper?//1000000
+### May the Fourth
 r/.*May 04.*//%s, Aren't you a little short for a storm trooper?//1000000
-w/.*May 04.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder!//1000000
-w/.*May 04.*//Mmm. Lost a planet, Master Obi-Wan has. How embarrassing//1000000
-w/.*May 04.*//Mmm. Lost a planet, Master %s has. How embarrassing//1000000
-r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, farm boy//1000000
-r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, %s//1000000
-r/.*May 04.*//Fear is the path to the dark side, %s//1000000
-r/.*May 04.*//Don't call me a mindless philosopher, you overweight glob of grease//1000000
-r/.*May 04.*//Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
-r/.*May 04.*//Master %s, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
-r/.*May 04.*//At last we will reveal ourselves to the Jedi. At last we will have revenge//1000000
-r/.*May 04.*//When I left you, I was but the learner; now I am the master//1000000
-r/.*May 04.*//I find your lack of faith disturbing//1000000
-r/.*May 04.*//I find your lack of faith disturbing, %s//1000000
-r/.*May 04.*//The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth %s//1000000
 r/.*May 04.*//A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations//2000000
 r/.*May 04.*//Ahh, hard to see, the Dark Side is//1000000
+r/.*May 04.*//At last we will reveal ourselves to the Jedi. At last we will have revenge//1000000
+r/.*May 04.*//Don't call me a mindless philosopher, you overweight glob of grease//1000000
+r/.*May 04.*//Fear is the path to the dark side, %s//1000000
 r/.*May 04.*//Go that way, you'll be malfunctioning in a day you near-sighted scrap pile//500000
-r/.*May 04.*//Help me Obi-Wan %s, you're my only hope.//1000000
-w/.*May 04.*//Help me Obi-Wan %s, you're my only hope.//1000000
-r/.*May 04.*//Laugh it up, Fuzz ball//1000000
-r/.*May 04.*//Obi-Wan has taught you well, %s//2000000
-r/.*May 04.*//The force is strong with this one, %s//1000000
 r/.*May 04.*//Great shot %s, that was one in a million//1000000
+r/.*May 04.*//Help me Obi-Wan %s, you're my only hope.//1000000
+r/.*May 04.*//I find your lack of faith disturbing, %s//1000000
+r/.*May 04.*//I find your lack of faith disturbing//1000000
 r/.*May 04.*//I suggest a new strategy, %s: let the Wookiee win//1000000
-g/.*May 04.*//Remember,,, the Force will be with you, always. Now, let's make the jump to light speed!//2000000
+r/.*May 04.*//Laugh it up, Fuzz ball//1000000
+r/.*May 04.*//Master %s, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
+r/.*May 04.*//Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
+r/.*May 04.*//May the force be with you %s//1000000
+r/.*May 04.*//Obi-Wan has taught you well, %s//2000000
+r/.*May 04.*//The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth %s//1000000
+r/.*May 04.*//The force is strong with this one, %s//1000000
+r/.*May 04.*//These aren't the droids you are looking for %s//1000000
+r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, %s//1000000
+r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, farm boy//1000000
+r/.*May 04.*//When I left you, I was but the learner; now I am the master//1000000
+r/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
+w/.*May 04.*//%s, Aren't you a little short for a storm trooper?/1000000
+w/.*May 04.*//Great, %s. Don’t get cocky/1000000
+w/.*May 04.*//Great, kid. Don’t get cocky/1000000
+w/.*May 04.*//Help me Obi-Wan %s, you're my only hope./1000000
+w/.*May 04.*//He’s holding a thermal detonator/1000000
+w/.*May 04.*//I sense great fear in you, Skywalker/1000000
+w/.*May 04.*//It's a trap, %s/1000000
+w/.*May 04.*//May the force be with you %s/1000000
+w/.*May 04.*//Mmm. Lost a planet, Master %s has. How embarrassing/1000000
+w/.*May 04.*//Mmm. Lost a planet, Master Obi-Wan has. How embarrassing/1000000
+w/.*May 04.*//These aren't the droids you are looking for %s/1000000
+w/.*May 04.*//When 900 years old, you reach, look as good, you will not/1000000
+w/.*May 04.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder/1000000
+w/.*May 04.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine/1000000
+w/.*May 04.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine/1000000
+w/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
+g/.*May 04.*//Remember,,, the Force will be with you, always. Now, let's make the jump to light speed/2000000
 
 ### General messages
 w//garth/Hey, it's Garth! Rock on, dude!/100
