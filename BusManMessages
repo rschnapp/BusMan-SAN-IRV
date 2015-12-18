@@ -90,7 +90,7 @@ r/.*Dec 18.*//These aren't the droids you are looking for %s//1000000
 r/.*Dec 18.*//Traveling through hyperspace ain't like dusting crops, %s//1000000
 r/.*Dec 18.*//Traveling through hyperspace ain't like dusting crops, farm boy//1000000
 r/.*Dec 18.*//When I left you, I was but the learner; now I am the master//1000000
-r/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
+r/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time//1000000
 w/.*Dec 18.*//%s, Aren't you a little short for a storm trooper?/1000000
 w/.*Dec 18.*//Great, %s. Don’t get cocky/1000000
 w/.*Dec 18.*//Great, kid. Don’t get cocky/1000000
@@ -133,7 +133,7 @@ r/.*May 04.*//These aren't the droids you are looking for %s//1000000
 r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, %s//1000000
 r/.*May 04.*//Traveling through hyperspace ain't like dusting crops, farm boy//1000000
 r/.*May 04.*//When I left you, I was but the learner; now I am the master//1000000
-r/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
+r/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time//1000000
 w/.*May 04.*//%s, Aren't you a little short for a storm trooper?/1000000
 w/.*May 04.*//Great, %s. Don’t get cocky/1000000
 w/.*May 04.*//Great, kid. Don’t get cocky/1000000
@@ -172,8 +172,8 @@ w///glad to see you %s/
 w///grab a seat %s/
 w///have a seat %s/
 w///Hey %s, nice to see you!/
-w///A pleasure to meet you %. I am C-3PO, Human-Cyborg Relations//3
-w///%, Aren't you a little short for a storm trooper?//1
+w///A pleasure to meet you %. I am C-3PO, Human-Cyborg Relations/3
+w///%, Aren't you a little short for a storm trooper?/1
 
 r///welcome back %s//
 r///heading home %s//
