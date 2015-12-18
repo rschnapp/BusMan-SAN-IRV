@@ -107,7 +107,7 @@ w/.*Dec 18.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder/1000000
 w/.*Dec 18.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*Dec 18.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
-g/.*Dec 18.*//I hope you all enjoyed The Force Awakens. Now, let's make the jump to light speed/2000000
+g/.*Dec 18.*/I hope you all enjoyed The Force Awakens. Now, let's make the jump to light speed/
 
 ### May the Fourth
 r/.*May 04.*//%s, Aren't you a little short for a storm trooper?//1000000
@@ -150,7 +150,7 @@ w/.*May 04.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder/1000000
 w/.*May 04.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*May 04.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine/1000000
 w/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
-g/.*May 04.*//Remember,,, the Force will be with you, always. Now, let's make the jump to light speed/2000000
+g/.*May 04.*/Remember,,, the Force will be with you, always. Now, let's make the jump to light speed/
 
 ### General messages
 w//garth/Hey, it's Garth! Rock on, dude!/100
