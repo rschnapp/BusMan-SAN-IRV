@@ -66,49 +66,6 @@ r/.*Apr 01.*//Hey %s, the last one in is a rotten egg!/t/100000
 
 g/.*Apr 01.*/I hope you all enjoyed April Fools Day. Now, let's go home!/10000
 
-### Force Awakens
-r/.*Dec 18.*//%s, Aren't you a little short for a storm trooper?//1000000
-r/.*Dec 18.*//A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations//2000000
-r/.*Dec 18.*//Ahh, hard to see, the Dark Side is//1000000
-r/.*Dec 18.*//At last we will reveal ourselves to the Jedi. At last we will have revenge//1000000
-r/.*Dec 18.*//Don't call me a mindless philosopher, you overweight glob of grease//1000000
-r/.*Dec 18.*//Fear is the path to the dark side, %s//1000000
-r/.*Dec 18.*//Go that way, you'll be malfunctioning in a day you near-sighted scrap pile//500000
-r/.*Dec 18.*//Great shot %s, that was one in a million//1000000
-r/.*Dec 18.*//Help me Obi-Wan %s, you're my only hope.//1000000
-r/.*Dec 18.*//I find your lack of faith disturbing, %s//1000000
-r/.*Dec 18.*//I find your lack of faith disturbing//1000000
-r/.*Dec 18.*//I suggest a new strategy, %s: let the Wookiee win//1000000
-r/.*Dec 18.*//Laugh it up, Fuzz ball//1000000
-r/.*Dec 18.*//Master %s, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
-r/.*Dec 18.*//Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better//1000000
-r/.*Dec 18.*//May the force be with you %s//1000000
-r/.*Dec 18.*//Obi-Wan has taught you well, %s//2000000
-r/.*Dec 18.*//The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth %s//1000000
-r/.*Dec 18.*//The force is strong with this one, %s//1000000
-r/.*Dec 18.*//These aren't the droids you are looking for %s//1000000
-r/.*Dec 18.*//Traveling through hyperspace ain't like dusting crops, %s//1000000
-r/.*Dec 18.*//Traveling through hyperspace ain't like dusting crops, farm boy//1000000
-r/.*Dec 18.*//When I left you, I was but the learner; now I am the master//1000000
-r/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time//1000000
-w/.*Dec 18.*//%s, Aren't you a little short for a storm trooper?/1000000
-w/.*Dec 18.*//Great, %s. Don’t get cocky/1000000
-w/.*Dec 18.*//Great, kid. Don’t get cocky/1000000
-w/.*Dec 18.*//Help me Obi-Wan %s, you're my only hope./1000000
-w/.*Dec 18.*//He’s holding a thermal detonator/1000000
-w/.*Dec 18.*//I sense great fear in you, Skywalker/1000000
-w/.*Dec 18.*//It's a trap, %s/1000000
-w/.*Dec 18.*//May the force be with you %s/1000000
-w/.*Dec 18.*//Mmm. Lost a planet, Master %s has. How embarrassing/1000000
-w/.*Dec 18.*//Mmm. Lost a planet, Master Obi-Wan has. How embarrassing/1000000
-w/.*Dec 18.*//These aren't the droids you are looking for %s/1000000
-w/.*Dec 18.*//When 900 years old, you reach, look as good, you will not/1000000
-w/.*Dec 18.*//Why you stuck-up, half-witted, scruffy-looking nerf-herder/1000000
-w/.*Dec 18.*//You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine/1000000
-w/.*Dec 18.*//You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine/1000000
-w/.*Dec 18.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/1000000
-g/.*Dec 18.*/I hope you all enjoyed The Force Awakens. Now, let's make the jump to light speed/
-
 ### May the Fourth
 r/.*May 04.*//%s, Aren't you a little short for a storm trooper?//1000000
 r/.*May 04.*//A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations//2000000
