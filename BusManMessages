@@ -38,16 +38,16 @@
 ### St Patrick's Day messages
 w/.*Mar 17.*//Top of the morning to you, %s!/25
 w/.*Mar 17.*//Happy Saint Patrick's Day, %s!/25
-w/.*Mar 17.*/seancraig|pmoench/%s sounds like a good Irish name!/100
+w/.*Mar 17.*/seancraig.*|pmoench.*/%s sounds like a good Irish name!/100
 w/.*Mar 17.*//%s might be a good Irish name!/25
 w/.*Mar 17.*//Are you wearing any green today, %s?/25
 
 ### April Fool's messages
-w/.*Apr 01.*/garth/Hey it's %s! Rock on, dude!/1000000
-r/.*Apr 01.*/garth/Yo %s! Rock on home, dude!//1000000
+w/.*Apr 01.*/garth.*/Hey it's %s! Rock on, dude!/1000000
+r/.*Apr 01.*/garth.*/Yo %s! Rock on home, dude!//1000000
 
-w/.*Apr 01.*/duga/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/1000000
-r/.*Apr 01.*/duga/Oh no. Here comes %s. What now?//1000000
+w/.*Apr 01.*/duga.*/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/1000000
+r/.*Apr 01.*/duga.*/Oh no. Here comes %s. What now?//1000000
 
 w/.*Apr 01.*//Welcome to Sky net %s. Please take a seat!/10000
 w/.*Apr 01.*//Welcome your new robot overlords, %s. Take a seat!/10000
@@ -67,7 +67,7 @@ r/.*Apr 01.*//Hey %s, the last one in is a rotten egg!/t/100000
 g/.*Apr 01.*/I hope you all enjoyed April Fools Day. Now, let's go home!/10000
 
 ### May the Fourth
-w/.*May 04.*/garth/Your imperial cruiser awaits, %s Vader/50000000
+w/.*May 04.*/garth.*/Your imperial cruiser awaits, %s Vader/50000000
 r/.*May 04.*//%s, Aren't you a little short for a storm trooper?//1000000
 r/.*May 04.*//A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations//2000000
 r/.*May 04.*//Ahh, hard to see, the Dark Side is//1000000
@@ -111,13 +111,13 @@ w/.*May 04.*//ohbee wahn %s. Now that's a name I haven't heard in a long time/10
 g/.*May 04.*/Remember,,, the Force will be with you, always. Now, let's make the jump to light speed/
 
 ### General messages
-w//garth/Hey, it's Garth! Rock on, dude!/100
-r//garth/Yo Garth! Rock on home, dude!//100
-w//duga/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/25
-w//duga/Hey, Brady. Where is your bunch?/20
-w//jgilik/Hi, John. Are you up to no good?/10
-r/.*Thu.*/duga/Thank frigg it's thor's day, eh %s?//200
-r/.*Thu.*/duga/Tee eff eye thorn %s//300
+w//garth.*/Hey, it's Garth! Rock on, dude!/100
+r//garth.*/Yo Garth! Rock on home, dude!//100
+w//duga.*/!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!/25
+w//duga.*/Hey, Brady. Where is your bunch?/20
+w//jgilik.*/Hi, John. Are you up to no good?/10
+r/.*Thu.*/duga.*/Thank frigg it's thor's day, eh %s?//200
+r/.*Thu.*/duga.*/Tee eff eye thorn %s//300
 
 w/.*Mon.*//How was your weekend, %s?/10
 w///welcome %s/10
