@@ -1,13 +1,11 @@
 {
   "welcomeMessages": [
     {
-      "idMatch": "",
       "timeRegexp": ".*Mar 17.*",
       "message": "Top of the morning to you, %s!",
       "weight": 25
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Mar 17.*",
       "message": "Happy Saint Patrick's Day, %s!",
       "weight": 25
@@ -19,13 +17,11 @@
       "weight": 100
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Mar 17.*",
       "message": "%s might be a good Irish name!",
       "weight": 25
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Mar 17.*",
       "message": "Are you wearing any green today, %s?",
       "weight": 25
@@ -43,43 +39,36 @@
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Welcome to Sky net %s. Please take a seat!",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Welcome your new robot overlords, %s. Take a seat!",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
-      "message": "!locale(es_ES)Bienvenido %s. ¿Cómo estás? Por favor tome asiento",
+      "message": "!locale(es_ES)Bienvenido %s. ┬┐C├│mo est├ís? Por favor tome asiento",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
-      "message": "!locale(es_US)¿Cómo estás %s? ¡Adelante!",
+      "message": "!locale(es_US)┬┐C├│mo est├ís %s? ┬íAdelante!",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
-      "message": "!locale(fr_FR)Bienvenue %s. S'il vous plaît s'asseoir.",
+      "message": "!locale(fr_FR)Bienvenue %s. S'il vous pla├«t s'asseoir.",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "!locale(fr_FR)Salut %s. Bienvenue!",
       "weight": 10000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "!locale(de_DE)Hallo %s. Herzlich Willkommen!",
       "weight": 10000
@@ -91,200 +80,143 @@
       "weight": 50000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "%s, Aren't you a little short for a storm trooper?",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
-      "message": "Great, %s. Don’t get cocky",
+      "message": "Great, %s. DonΓÇÖt get cocky",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
-      "message": "Great, kid. Don’t get cocky",
+      "message": "Great, kid. DonΓÇÖt get cocky",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "Help me Obi-Wan %s, you're my only hope.",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
-      "message": "He’s holding a thermal detonator",
+      "message": "HeΓÇÖs holding a thermal detonator",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "I sense great fear in you, Skywalker",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "It's a trap, %s",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "May the force be with you %s",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "Mmm. Lost a planet, Master %s has. How embarrassing",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "Mmm. Lost a planet, Master Obi-Wan has. How embarrassing",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "These aren't the droids you are looking for %s",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "When 900 years old, you reach, look as good, you will not",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "Why you stuck-up, half-witted, scruffy-looking nerf-herder",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
-      "message": "You can’t win, %s. Strike me down, and I will become more powerful than you could possibly imagine",
+      "message": "You canΓÇÖt win, %s. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
-      "message": "You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine",
+      "message": "You canΓÇÖt win, Darth. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*May 04.*",
       "message": "ohbee wahn %s. Now that's a name I haven't heard in a long time",
       "weight": 1000000
     },
     {
       "idMatch": "garth.*",
-      "timeRegexp": "",
       "message": "Hey, it's Garth! Rock on, dude!",
       "weight": 100
     },
     {
       "idMatch": "duga.*",
-      "timeRegexp": "",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
       "weight": 25
     },
     {
       "idMatch": "duga.*",
-      "timeRegexp": "",
       "message": "Hey, Brady. Where is your bunch?",
       "weight": 20
     },
     {
       "idMatch": "jgilik.*",
-      "timeRegexp": "",
-      "message": "Hi, John. Are you up to no good?",
-      "weight": 10
+      "message": "Hi, John. Are you up to no good?"
     },
     {
-      "idMatch": "",
       "timeRegexp": ".*Mon.*",
-      "message": "How was your weekend, %s?",
-      "weight": 10
+      "message": "How was your weekend, %s?"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "welcome %s",
-      "weight": 10
+      "message": "welcome %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "hi %s",
-      "weight": 10
+      "message": "hi %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "welcome aboard %s",
-      "weight": 10
+      "message": "welcome aboard %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "welcome back %s",
-      "weight": 10
+      "message": "welcome back %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "have a seat %s",
-      "weight": 10
+      "message": "have a seat %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "nice to see you %s",
-      "weight": 10
+      "message": "nice to see you %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "glad to see you %s",
-      "weight": 10
+      "message": "glad to see you %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "grab a seat %s",
-      "weight": 10
+      "message": "grab a seat %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "have a seat %s",
-      "weight": 10
+      "message": "have a seat %s"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
-      "message": "Hey %s, nice to see you!",
-      "weight": 10
+      "message": "Hey %s, nice to see you!"
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
       "message": "A pleasure to meet you %. I am C-3PO, Human-Cyborg Relations",
       "weight": 3
     },
     {
-      "idMatch": "",
-      "timeRegexp": "",
       "message": "%, Aren't you a little short for a storm trooper?",
       "weight": 1
     }
@@ -294,341 +226,231 @@
       "idRegexp": "garth.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "Yo %s! Rock on home, dude!",
-      "isLast": "",
       "weight": 1000000
     },
     {
       "idRegexp": "duga.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "Oh no. Here comes %s. What now?",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Welcome back to Sky net %s. Please take a seat",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Your advertising message could go here, %s. Call me!",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Click here to promote your website %s",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Hey %s, where is my coffee?",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Where have you been %s?",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Did you remember to lock your car %s?",
-      "isLast": "",
       "weight": 200
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*Apr 01.*",
       "message": "Hey %s, the last one in is a rotten egg!",
       "isLast": "t",
       "weight": 100000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "%s, Aren't you a little short for a storm trooper?",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations",
-      "isLast": "",
       "weight": 2000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Ahh, hard to see, the Dark Side is",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "At last we will reveal ourselves to the Jedi. At last we will have revenge",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Don't call me a mindless philosopher, you overweight glob of grease",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Fear is the path to the dark side, %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Go that way, you'll be malfunctioning in a day you near-sighted scrap pile",
-      "isLast": "",
       "weight": 500000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Great shot %s, that was one in a million",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Help me Obi-Wan %s, you're my only hope.",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "I find your lack of faith disturbing, %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "I find your lack of faith disturbing",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "I suggest a new strategy, %s: let the Wookiee win",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Laugh it up, Fuzz ball",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Master %s, you disappoint me. Yoda holds you in such high esteem. Surely you can do better",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "May the force be with you %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Obi-Wan has taught you well, %s",
-      "isLast": "",
       "weight": 2000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "The force is strong with this one, %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "These aren't the droids you are looking for %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Traveling through hyperspace ain't like dusting crops, %s",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "Traveling through hyperspace ain't like dusting crops, farm boy",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "When I left you, I was but the learner; now I am the master",
-      "isLast": "",
       "weight": 1000000
     },
     {
-      "idRegexp": "",
       "timeRegexp": ".*May 04.*",
       "message": "ohbee wahn %s. Now that's a name I haven't heard in a long time",
-      "isLast": "",
       "weight": 1000000
     },
     {
       "idRegexp": "garth.*",
-      "timeRegexp": "",
       "message": "Yo Garth! Rock on home, dude!",
-      "isLast": "",
       "weight": 100
     },
     {
       "idRegexp": "duga.*",
       "timeRegexp": ".*Thu.*",
       "message": "Thank frigg it's thor's day, eh %s?",
-      "isLast": "",
       "weight": 200
     },
     {
       "idRegexp": "duga.*",
       "timeRegexp": ".*Thu.*",
       "message": "Tee eff eye thorn %s",
-      "isLast": "",
       "weight": 300
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "welcome back %s",
-      "isLast": "",
-      "weight": 10
+      "message": "welcome back %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "heading home %s",
-      "isLast": "",
-      "weight": 10
+      "message": "heading home %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "hope you had a great day %s",
-      "isLast": "",
-      "weight": 10
+      "message": "hope you had a great day %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "get aboard %s",
-      "isLast": "",
-      "weight": 10
+      "message": "get aboard %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "homeward %s",
-      "isLast": "",
-      "weight": 10
+      "message": "homeward %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "hi %s",
-      "isLast": "",
-      "weight": 10
+      "message": "hi %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "hope you had a fine day %s",
-      "isLast": "",
-      "weight": 10
+      "message": "hope you had a fine day %s"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
-      "message": "hey %s is back!",
-      "isLast": "",
-      "weight": 10
+      "message": "hey %s is back!"
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
       "message": "These aren't the droids you are looking for, %",
-      "isLast": "",
       "weight": 2
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
       "message": "%s is the slowpoke today",
       "isLast": "t",
       "weight": 30
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
       "message": "Now we are playing with a full deck %s. Have a seat!",
       "isLast": "t",
       "weight": 30
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
       "message": "We've all been waiting for you, %s",
       "isLast": "t",
       "weight": 30
     },
     {
-      "idRegexp": "",
-      "timeRegexp": "",
       "message": "Why you stuck-up, half-witted, scruffy-looking nerf-herder!",
       "isLast": "t",
       "weight": 25
@@ -642,36 +464,24 @@
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "Remember,,, the Force will be with you, always. Now, let's make the jump to light speed",
-      "weight": 10
+      "message": "Remember,,, the Force will be with you, always. Now, let's make the jump to light speed"
     },
     {
-      "timeRegexp": "",
-      "message": "Hooray! We're all aboard. Time to go!",
-      "weight": 10
+      "message": "Hooray! We're all aboard. Time to go!"
     },
     {
-      "timeRegexp": "",
-      "message": "Okay, it's time to hit the highway!",
-      "weight": 10
+      "message": "Okay, it's time to hit the highway!"
     },
     {
-      "timeRegexp": "",
-      "message": "It is go, go, go time!",
-      "weight": 10
+      "message": "It is go, go, go time!"
     },
     {
-      "timeRegexp": "",
-      "message": "Everyone is aboard. Let's boogie!",
-      "weight": 10
+      "message": "Everyone is aboard. Let's boogie!"
     },
     {
-      "timeRegexp": "",
-      "message": "All aboard! It's time to head for home!",
-      "weight": 10
+      "message": "All aboard! It's time to head for home!"
     },
     {
-      "timeRegexp": "",
       "message": "We're all aboard. Let's make the jump to light speed!",
       "weight": 3
     },
