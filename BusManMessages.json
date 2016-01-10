@@ -11,7 +11,7 @@
       "weight": 25
     },
     {
-      "idMatch": "seancraig.*|pmoench.*",
+      "idRegexp": "seancraig.*|pmoench.*",
       "timeRegexp": ".*Mar 17.*",
       "message": "%s sounds like a good Irish name!",
       "weight": 100
@@ -27,13 +27,13 @@
       "weight": 25
     },
     {
-      "idMatch": "garth.*",
+      "idRegexp": "garth.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "Hey it's %s! Rock on, dude!",
       "weight": 1000000
     },
     {
-      "idMatch": "duga.*",
+      "idRegexp": "duga.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
       "weight": 1000000
@@ -74,7 +74,7 @@
       "weight": 10000
     },
     {
-      "idMatch": "garth.*",
+      "idRegexp": "garth.*",
       "timeRegexp": ".*May 04.*",
       "message": "Your imperial cruiser awaits, %s Vader",
       "weight": 50000000
@@ -86,12 +86,12 @@
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "Great, %s. DonΓÇÖt get cocky",
+      "message": "Great, %s. Don't get cocky",
       "weight": 1000000
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "Great, kid. DonΓÇÖt get cocky",
+      "message": "Great, kid. Don't get cocky",
       "weight": 1000000
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "HeΓÇÖs holding a thermal detonator",
+      "message": "He's holding a thermal detonator",
       "weight": 1000000
     },
     {
@@ -146,12 +146,12 @@
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "You canΓÇÖt win, %s. Strike me down, and I will become more powerful than you could possibly imagine",
+      "message": "You can't win, %s. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "You canΓÇÖt win, Darth. Strike me down, and I will become more powerful than you could possibly imagine",
+      "message": "You can't win, Darth. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
@@ -160,22 +160,22 @@
       "weight": 1000000
     },
     {
-      "idMatch": "garth.*",
+      "idRegexp": "garth.*",
       "message": "Hey, it's Garth! Rock on, dude!",
       "weight": 100
     },
     {
-      "idMatch": "duga.*",
+      "idRegexp": "duga.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
       "weight": 25
     },
     {
-      "idMatch": "duga.*",
+      "idRegexp": "duga.*",
       "message": "Hey, Brady. Where is your bunch?",
       "weight": 20
     },
     {
-      "idMatch": "jgilik.*",
+      "idRegexp": "jgilik.*",
       "message": "Hi, John. Are you up to no good?"
     },
     {
