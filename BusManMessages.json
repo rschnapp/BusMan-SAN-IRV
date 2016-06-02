@@ -186,6 +186,11 @@
       "weight": 2
     },
     {
+      "idRegexp": "duga.*",
+      "message": "Allo, Brady. Where is your halibut?",
+      "weight": 40
+    },
+    {
       "idRegexp": "jgilik.*",
       "message": "Hi, John. Are you up to no good?"
     },
@@ -417,6 +422,12 @@
       "timeRegexp": ".*Thu.*",
       "message": "Tee eff eye thorn %s",
       "weight": 300
+    },
+    {
+      "idRegexp": "duga.*",
+      "timeRegexp": ".*Thu.*",
+      "message": "Look, it's %s, just for the halibut!",
+      "weight": 400
     },
     {
       "message": "welcome back %s"
