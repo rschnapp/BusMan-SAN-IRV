@@ -39,6 +39,12 @@
       "weight": 1000000
     },
     {
+      "idRegexp": "duga.*",
+      "timeRegexp": ".*Apr 01.*",
+      "message": "Hey, bunch. Where is your Brady?",
+      "weight": 1000000
+    },
+    {
       "timeRegexp": ".*Apr 01.*",
       "message": "Welcome to Sky net %s. Please take a seat!",
       "weight": 10000
@@ -167,12 +173,17 @@
     {
       "idRegexp": "duga.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
-      "weight": 25
+      "weight": 15
     },
     {
       "idRegexp": "duga.*",
       "message": "Hey, Brady. Where is your bunch?",
       "weight": 20
+    },
+    {
+      "idRegexp": "duga.*",
+      "message": "Hey, bunch. Where is your Brady?",
+      "weight": 2
     },
     {
       "idRegexp": "jgilik.*",
