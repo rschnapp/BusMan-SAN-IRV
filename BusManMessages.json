@@ -27,6 +27,31 @@
       "weight": 25
     },
     {
+      "timeRegexp": ".*Sep 19.*",
+      "message": "Have you heard about the new pirate movie, %s? It's rated arrrrrr!",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Sep 19.*",
+      "message": "What was the pirate's golf score, %s? It was parrrrrr!",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Sep 19.*",
+      "message": "Welcome aboard my ship, me hearty!",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Sep 19.*",
+      "message": "Why are pirates called pirates, %s? Because they just arrrrrrrr",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Sep 19.*",
+      "message": "Are you ready to walk the plank, %s",
+      "weight": 25
+    },
+    {
       "idRegexp": "garth.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "Hey it's %s! Rock on, dude!",
