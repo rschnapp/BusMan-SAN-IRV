@@ -1,6 +1,36 @@
 {
   "welcomeMessages": [
     {
+      "timeRegexp": ".*Jan 05.*",
+      "message": "Hi, %s! Five o'clock departure today!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Jan 05.*",
+      "message": "Bus leaves at 5 today, %s!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Jan 05.*",
+      "message": "Be on the bus by 5 today, %s!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 2[29].*",
+      "message": "Hi, %s! Five o'clock departure today!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 2[29].*",
+      "message": "Bus leaves at 5 today, %s!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 2[29].*",
+      "message": "Be on the bus by 5 today, %s!",
+      "weight": 10000
+    },
+    {
       "timeRegexp": ".*Mar 17.*",
       "message": "Top of the morning to you, %s!",
       "weight": 25
