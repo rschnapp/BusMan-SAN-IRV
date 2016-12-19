@@ -16,17 +16,32 @@
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Dec 2[29].*",
+      "timeRegexp": ".*Dec 22.*",
+      "message": "Hi, %s! Three o'clock departure today!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 22.*",
+      "message": "Bus leaves at 3 today, %s!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 22.*",
+      "message": "Be on the bus by 3 today, %s!",
+      "weight": 10000
+    },
+    {
+      "timeRegexp": ".*Dec 29.*",
       "message": "Hi, %s! Five o'clock departure today!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Dec 2[29].*",
+      "timeRegexp": ".*Dec 29.*",
       "message": "Bus leaves at 5 today, %s!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Dec 2[29].*",
+      "timeRegexp": ".*Dec 29.*",
       "message": "Be on the bus by 5 today, %s!",
       "weight": 10000
     },
