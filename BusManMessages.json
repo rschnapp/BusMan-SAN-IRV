@@ -31,6 +31,12 @@
       "weight": 1000000
     },
     {
+      "timeRegexp": ".*Dec 22.*",
+      "idRegexp": "seancraig.*",
+      "message": "Thanks for the doughnuts, %s! 3 pee em departure, today",
+      "weight": 100000000
+    },
+    {
       "timeRegexp": ".*Dec 29.*",
       "message": "Hi, %s! Five o'clock departure today!",
       "weight": 1000000
