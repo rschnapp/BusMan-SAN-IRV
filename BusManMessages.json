@@ -16,27 +16,6 @@
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*Dec 22.*",
-      "message": "Hi, %s! Three o'clock departure today!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 22.*",
-      "message": "Bus leaves at 3 today, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 22.*",
-      "message": "Be on the bus by 3 today, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 22.*",
-      "idRegexp": "seancraig.*",
-      "message": "Thanks for the doughnuts, %s! 3 pee em departure, today",
-      "weight": 100000000
-    },
-    {
       "timeRegexp": ".*Dec 29.*",
       "message": "Hi, %s! Five o'clock departure today!",
       "weight": 1000000
@@ -327,21 +306,6 @@
     {
       "timeRegexp": ".*Jan 04.*",
       "message": "Be on the bus by 5 tomorrow, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 21.*",
-      "message": "Hi, %s! Remember, three o'clock departure tomorrow!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 21.*",
-      "message": "Bus leaves at 3 tomorrow, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 21.*",
-      "message": "Be on the bus by 3 tomorrow, %s!",
       "weight": 1000000
     },
     {
