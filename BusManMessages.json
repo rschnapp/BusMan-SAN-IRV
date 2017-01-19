@@ -1,33 +1,18 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*Jan 05.*",
+      "timeRegexp": ".*Jan 19.*",
       "message": "Hi, %s! Five oh clock departure today!",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*Jan 05.*",
+      "timeRegexp": ".*Jan 19.*",
       "message": "Bus leaves at 5 pee em today, %s!",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*Jan 05.*",
+      "timeRegexp": ".*Jan 19.*",
       "message": "Be on the bus by 5 today, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 29.*",
-      "message": "Hi, %s! Three oh clock departure today!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 29.*",
-      "message": "Bus leaves at 3 today, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 29.*",
-      "message": "Be on the bus by 3 pee em today, %s!",
       "weight": 1000000
     },
     {
@@ -293,36 +278,6 @@
     }
   ],
   "returnMessages": [
-    {
-      "timeRegexp": ".*Jan 04.*",
-      "message": "Hi, %s! Remember, five o'clock departure tomorrow!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Jan 04.*",
-      "message": "Bus leaves at 5 tomorrow, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Jan 04.*",
-      "message": "Be on the bus by 5 tomorrow, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 28.*",
-      "message": "Hi, %s! Remember, three oh clock departure tomorrow!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 28.*",
-      "message": "Bus leaves at 3 pee em tomorrow, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Dec 28.*",
-      "message": "Be on the bus by 3 tomorrow, %s!",
-      "weight": 1000000
-    },
     {
       "idRegexp": "garth.*",
       "timeRegexp": ".*Apr 01.*",
