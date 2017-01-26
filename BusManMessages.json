@@ -1,21 +1,6 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*Jan 19.*",
-      "message": "Hi, %s! Five oh clock departure today!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Jan 19.*",
-      "message": "Bus leaves at 5 pee em today, %s!",
-      "weight": 1000000
-    },
-    {
-      "timeRegexp": ".*Jan 19.*",
-      "message": "Be on the bus by 5 today, %s!",
-      "weight": 1000000
-    },
-    {
       "timeRegexp": ".*Mar 17.*",
       "message": "Top of the morning to you, %s!",
       "weight": 25
