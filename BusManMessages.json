@@ -1,6 +1,17 @@
 {
   "welcomeMessages": [
     {
+      "idRegexp": "mjacobsen.*",
+      "timeRegexp": ".*Apr 01.*",
+      "message": "Happy Birthday, Mat!",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mjacobsen.*",
+      "message": "Happy Birthday, Mat!",
+      "weight": 100
+    },
+    {
       "timeRegexp": ".*Mar 17.*",
       "message": "Top of the morning to you, %s!",
       "weight": 25
@@ -263,6 +274,17 @@
     }
   ],
   "returnMessages": [
+    {
+      "idRegexp": "mjacobsen.*",
+      "timeRegexp": ".*Apr 01.*",
+      "message": "I hope you had a fine birthday, Mat",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mjacobsen.*",
+      "message": "I hope you had a fine birthday, Mat",
+      "weight": 25
+    },
     {
       "idRegexp": "garth.*",
       "timeRegexp": ".*Apr 01.*",
