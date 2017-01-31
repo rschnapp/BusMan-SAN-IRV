@@ -3,12 +3,18 @@
     {
       "idRegexp": "mjacobsen.*",
       "timeRegexp": ".*Apr 01.*",
-      "message": "Happy Birthday, Mat!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000000
     },
     {
       "idRegexp": "mjacobsen.*",
-      "message": "Happy Birthday, Mat!",
+      "timeRegexp": ".*Oct 14.*",
+      "message": "Happy real birthday, %s!",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mjacobsen.*",
+      "message": "Happy Birthday, %s!",
       "weight": 100
     },
     {
@@ -277,12 +283,18 @@
     {
       "idRegexp": "mjacobsen.*",
       "timeRegexp": ".*Apr 01.*",
-      "message": "I hope you had a fine birthday, Mat",
+      "message": "I hope you had a fine birthday, %s",
       "weight": 1000000
     },
     {
       "idRegexp": "mjacobsen.*",
-      "message": "I hope you had a fine birthday, Mat",
+      "timeRegexp": ".*Oct 14.*",
+      "message": "I hope you had a fine actual birthday, %s",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mjacobsen.*",
+      "message": "I hope you had a fine birthday, %s",
       "weight": 25
     },
     {
