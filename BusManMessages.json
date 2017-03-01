@@ -16,6 +16,21 @@
       "weight": 25
     },
     {
+      "timeRegexp": ".*Fri.*",
+      "message": "Hi, %s! Remember, four thirty departure today",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Fri.*",
+      "message": "The bus leaves at four thirty today, %s",
+      "weight": 25
+    },
+    {
+      "timeRegexp": ".*Fri.*",
+      "message": "Be on the bus by four thirty today, %s",
+      "weight": 25
+    },
+    {
       "idRegexp": "mjacobsen.*",
       "timeRegexp": ".*Apr 01.*",
       "message": "Were you born on April Fools day, %s?",
