@@ -3,32 +3,32 @@
     {
       "timeRegexp": ".*Thu.*",
       "message": "Hi, %s! Remember, five thirty departure today",
-      "weight": 25
+      "weight": 10
     },
     {
       "timeRegexp": ".*Thu.*",
       "message": "The bus leaves at five thirty today, %s",
-      "weight": 25
+      "weight": 10
     },
     {
       "timeRegexp": ".*Thu.*",
       "message": "Be on the bus by five thirty today, %s",
-      "weight": 25
+      "weight": 10
     },
     {
       "timeRegexp": ".*Fri.*",
       "message": "Hi, %s! Remember, four thirty departure today",
-      "weight": 25
+      "weight": 10
     },
     {
       "timeRegexp": ".*Fri.*",
       "message": "The bus leaves at four thirty today, %s",
-      "weight": 25
+      "weight": 10
     },
     {
       "timeRegexp": ".*Fri.*",
       "message": "Be on the bus by four thirty today, %s",
-      "weight": 25
+      "weight": 10
     },
     {
       "idRegexp": "mjacobsen.*",
