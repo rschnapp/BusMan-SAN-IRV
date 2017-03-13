@@ -265,7 +265,7 @@
     {
       "idRegexp": "duga.*",
       "message": "Allo, Brady. Where is your halibut?",
-      "weight": 40
+      "weight": 5
     },
     {
       "timeRegexp": ".*Mon.*",
