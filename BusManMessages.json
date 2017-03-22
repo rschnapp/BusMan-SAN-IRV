@@ -1,17 +1,17 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*Mar 16.*",
+      "timeRegexp": ".*Mar 16 2017",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 16.*",
+      "timeRegexp": ".*Mar 16 2017",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 16.*",
+      "timeRegexp": ".*Mar 16 2017",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -512,6 +512,11 @@
       "weight": 1000000
     },
     {
+      "timeRegexp": ".*May 04.*",
+      "message": "ohbee wahn %s. Now that's a name I haven't heard. Ever.",
+      "weight": 1000000
+    },
+    {
       "idRegexp": "garth.*",
       "message": "Yo Garth! Rock on home, dude!",
       "weight": 100
@@ -591,7 +596,8 @@
     },
     {
       "timeRegexp": ".*May 04.*",
-      "message": "Remember,,, the Force will be with you, always. Now, let's make the jump to light speed"
+      "message": "Remember,,, the Fourth will be with you, always. Now, let's make the jump to light speed"
+      "weight": 10000
     },
     {
       "message": "Hooray! We're all aboard. Time to go!"
