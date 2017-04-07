@@ -1,17 +1,17 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*Mar 16 2017",
+      "timeRegexp": ".*Apr 13 2017",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 16 2017",
+      "timeRegexp": ".*Apr 13 2017",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 16 2017",
+      "timeRegexp": ".*Apr 13 2017",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -317,6 +317,21 @@
   ],
   "returnMessages": [
     {
+      "timeRegexp": ".*Apr 12 2017",
+      "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".*Apr 12 2017",
+      "message": "Hi, %s. The bus leaves at 5 tomorrow!",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".*Apr 12 2017",
+      "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
+      "weight": 75
+    },
+    {
       "timeRegexp": ".*Mar 14.*",
       "message": "I hope you enjoyed pie day, %s!",
       "weight": 75
@@ -519,7 +534,7 @@
     {
       "idRegexp": "garth.*",
       "message": "Yo Garth! Rock on home, dude!",
-      "weight": 100
+      "weight": 200
     },
     {
       "idRegexp": "duga.*",
