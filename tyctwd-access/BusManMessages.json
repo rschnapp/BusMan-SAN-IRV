@@ -1,0 +1,42 @@
+{
+  "welcomeMessages": [
+    {
+      "message": "Access granted, %s"
+    },
+    {
+      "message": "Access granted to %s"
+    }
+  ],
+  "alreadyWelcomedMessages": [
+    {
+      "message": "Access granted, %s"
+    },
+    {
+      "message": "Access granted to %s"
+    }
+  ],
+  "returnMessages": [
+    {
+      "message": "Access granted, %s"
+    },
+    {
+      "message": "Access granted to %s"
+    }
+  ],
+  "alreadyReturnedMessages": [
+    {
+      "message": "Access granted, %s"
+    },
+    {
+      "message": "Access granted to %s"
+    }
+  ],
+  "goMessages": [
+    {
+      "message": "Bye!"
+    },
+    {
+      "message": "See you!"
+    }
+  ]
+}
