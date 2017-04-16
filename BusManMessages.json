@@ -315,6 +315,17 @@
       "weight": 1
     }
   ],
+  "alreadyWelcomedMessages": [
+    {
+      "message": "Once is good enough, %s!"
+    },
+    {
+      "message": "Hi, %s. I've got you on the list."
+    },
+    {
+      "message": "You are already on the list, %s!"
+    }
+  ],
   "returnMessages": [
     {
       "timeRegexp": ".*Apr 12, 2017",
@@ -601,6 +612,28 @@
       "message": "Why you stuck-up, half-witted, scruffy-looking nerf-herder!",
       "isLast": "t",
       "weight": 25
+    }
+  ],
+  "alreadyReturnedMessages": [
+    {
+      "message": "Once is good enough, %s!",
+      "dejaVu": "t"
+    },
+    {
+      "message": "Hi, %s. Did you ever get the feeling of deja vu?",
+      "dejaVu": "t"
+    },
+    {
+      "message": "Slow down, %s. I see you!",
+      "dejaVu": "t"
+    },
+    {
+      "message": "Hey, %s, I don't see you on the list.",
+      "dejaVu": "f"
+    },
+    {
+      "message": "You were not on the list, %s,",
+      "dejaVu": "f"
     }
   ],
   "goMessages": [

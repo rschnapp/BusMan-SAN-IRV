@@ -1,0 +1,75 @@
+{
+  "welcomeMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Good to see you, %s"
+    },
+    {
+      "message": "Do you want to build a snowman, %s?"
+    },
+    {
+      "message": "Let's get to work, %s"
+    },
+    {
+      "message": "I hope you have a great day, %s"
+    },
+    {
+      "message": "Thank you, %s, for coming to Take Your Children To Work Day!"
+    },
+    {
+      "message": "%s, what do you want to be when you grow up?"
+    },
+    {
+      "message": "Thank you for bringing your parent to work today, %s"
+    }
+  ],
+  "alreadyWelcomedMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Good to see you, %s"
+    },
+    {
+      "message": "Do you want to build a snowman, %s?"
+    },
+    {
+      "message": "Let's get to work, %s"
+    },
+    {
+      "message": "I hope you have a great day, %s"
+    },
+    {
+      "message": "Thank you, %s, for coming to Take Your Children To Work Day!"
+    },
+    {
+      "message": "%s, what do you want to be when you grow up?"
+    },
+    {
+      "message": "Thank you for bringing your parent to work today, %s"
+    }
+  ],
+  "returnMessages": [
+    {
+      "message": "Thank you for visiting us, %s!"
+    },
+    {
+      "message": "Thank you for visiting Google, %s!"
+    }
+  ],
+  "alreadyReturnedMessages": [
+    {
+      "message": "Thank you for visiting us, %s!"
+    },
+    {
+      "message": "Thank you for visiting Google, %s!"
+    }
+  ],
+  "goMessages": [
+    {
+      "message": "You were our last visitor! Bye!"
+    }
+  ]
+}
