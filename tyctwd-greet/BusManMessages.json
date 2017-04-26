@@ -1,0 +1,42 @@
+{
+  "welcomeMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Hi, %s! Welcome to Google"
+    }
+  ],
+  "alreadyWelcomedMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Hi, %s! Welcome to Google"
+    }
+  ],
+  "returnMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Hi, %s! Welcome to Google"
+    }
+  ],
+  "alreadyReturnedMessages": [
+    {
+      "message": "Welcome to Google, %s"
+    },
+    {
+      "message": "Hi, %s! Welcome to Google"
+    }
+  ],
+  "goMessages": [
+    {
+      "message": "Bye!"
+    },
+    {
+      "message": "See you!"
+    }
+  ]
+}

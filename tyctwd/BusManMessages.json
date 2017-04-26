@@ -13,7 +13,7 @@
       "message": "Let's get to work, %s"
     },
     {
-      "message": "I hope you have a great day, %s"
+      "message": "I hope you have a good day, %s"
     },
     {
       "message": "Thank you, %s, for coming to Take Your Children To Work Day!"
@@ -22,7 +22,7 @@
       "message": "%s, what do you want to be when you grow up?"
     },
     {
-      "message": "Thank you for bringing your parent to work today, %s"
+      "message": "Hi, I'm %s, and I like warm hugs."
     }
   ],
   "alreadyWelcomedMessages": [
@@ -39,7 +39,7 @@
       "message": "Let's get to work, %s"
     },
     {
-      "message": "I hope you have a great day, %s"
+      "message": "I hope you have a good day, %s"
     },
     {
       "message": "Thank you, %s, for coming to Take Your Children To Work Day!"
@@ -48,7 +48,7 @@
       "message": "%s, what do you want to be when you grow up?"
     },
     {
-      "message": "Thank you for bringing your parent to work today, %s"
+      "message": "Hi, I'm %s, and I like warm hugs."
     }
   ],
   "returnMessages": [
