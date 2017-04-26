@@ -23,6 +23,9 @@
     },
     {
       "message": "Hi, I'm %s, and I like warm hugs."
+    },
+    {
+      "message": "Thank you, %s, for bringing your parent to work today!"
     }
   ],
   "alreadyWelcomedMessages": [
@@ -49,6 +52,9 @@
     },
     {
       "message": "Hi, I'm %s, and I like warm hugs."
+    },
+    {
+      "message": "Thank you, %s, for bringing your parent to work today!"
     }
   ],
   "returnMessages": [
