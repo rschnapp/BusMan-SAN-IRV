@@ -1,17 +1,17 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*May 11, 2017",
+      "timeRegexp": ".*May 18, 2017",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".*May 11, 2017",
+      "timeRegexp": ".*May 18, 2017",
       "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".*May 11, 2017",
+      "timeRegexp": ".*May 18, 2017",
       "message": "Be on the bus by five today, %s",
       "weight": 100
     },
@@ -328,17 +328,17 @@
   ],
   "returnMessages": [
     {
-      "timeRegexp": ".*May 10, 2017",
+      "timeRegexp": ".*May 17, 2017",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*May 10, 2017",
+      "timeRegexp": ".*May 17, 2017",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*May 10, 2017",
+      "timeRegexp": ".*May 17, 2017",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
