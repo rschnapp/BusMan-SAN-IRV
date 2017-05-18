@@ -1,49 +1,49 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".*May 18, 2017",
+      "timeRegexp": ".* May 18, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".*May 18, 2017",
+      "timeRegexp": ".* May 18, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".*May 18, 2017",
+      "timeRegexp": ".* May 18, 2017 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".*Fri.*",
+      "timeRegexp": "^Fri,.*",
       "message": "Hi, %s! Remember, four thirty departure today",
       "weight": 15
     },
     {
-      "timeRegexp": ".*Fri.*",
+      "timeRegexp": "^Fri,.*",
       "message": "The bus leaves at four thirty today, %s",
       "weight": 15
     },
     {
-      "timeRegexp": ".*Fri.*",
+      "timeRegexp": "^Fri,.*",
       "message": "Be on the bus by four thirty today, %s",
       "weight": 15
     },
     {
-      "timeRegexp": ".*Mar 14.*",
+      "timeRegexp": ".* Mar 14,.*",
       "message": "Happy pie day, %s!",
       "weight": 75
     },
     {
       "idRegexp": "mjacobsen.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Were you born on April Fools day, %s?",
       "weight": 1000000
     },
     {
       "idRegexp": "mjacobsen.*",
-      "timeRegexp": ".*Oct 14.*",
+      "timeRegexp": ".* Oct 14,.*",
       "message": "Happy real birthday, %s!",
       "weight": 1000000
     },
@@ -53,197 +53,197 @@
       "weight": 25
     },
     {
-      "timeRegexp": ".*Mar 17.*",
+      "timeRegexp": ".* Mar 17,.*",
       "message": "Top of the morning to you, %s!",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Mar 17.*",
+      "timeRegexp": ".* Mar 17,.*",
       "message": "Happy Saint Patrick's Day, %s!",
       "weight": 25
     },
     {
       "idRegexp": "seancraig.*|pmoench.*",
-      "timeRegexp": ".*Mar 17.*",
+      "timeRegexp": ".* Mar 17,.*",
       "message": "%s sounds like a good Irish name!",
       "weight": 1000
     },
     {
-      "timeRegexp": ".*Mar 17.*",
+      "timeRegexp": ".* Mar 17,.*",
       "message": "%s might be a good Irish name!",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Mar 17.*",
+      "timeRegexp": ".* Mar 17,.*",
       "message": "Are you wearing any green today, %s?",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Sep 19.*",
+      "timeRegexp": ".* Sep 19,.*",
       "message": "Have you heard about the new pirate movie, %s? It's rated arrrrrr!",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Sep 19.*",
+      "timeRegexp": ".* Sep 19,.*",
       "message": "What was the pirate's golf score, %s? It was parrrrrr!",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Sep 19.*",
+      "timeRegexp": ".* Sep 19,.*",
       "message": "Welcome aboard my ship, me hearty!",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Sep 19.*",
+      "timeRegexp": ".* Sep 19,.*",
       "message": "Why are pirates called pirates, %s? Because they just arrrrrrrr",
       "weight": 25
     },
     {
-      "timeRegexp": ".*Sep 19.*",
+      "timeRegexp": ".* Sep 19,.*",
       "message": "Get ready to walk the plank, %s",
       "weight": 25
     },
     {
       "idRegexp": "garth.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Hey it's %s! Rock on, dude!",
       "weight": 1000000
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
       "weight": 1000000
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Hey, bunch. Where is your Brady?",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Welcome to Sky net %s. Take a seat now!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Welcome your new robot overlords, %s. Take a seat!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(es_ES)Bienvenido %s. ┬┐C├│mo est├ís? Por favor tome asiento",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(es_US)┬┐C├│mo est├ís %s? ┬íAdelante!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(fr_FR)Bienvenue %s. S'il vous pla├«t s'asseoir.",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(fr_FR)Salut %s. Bienvenue!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(de_DE)Hallo %s. Herzlich Willkommen!",
       "weight": 10000
     },
     {
       "idRegexp": "garth.*",
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Your imperial cruiser awaits, %s Vader",
       "weight": 50000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "%s, Aren't you a little short for a storm trooper?",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Great, %s. Don't get cocky",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Great, kid. Don't get cocky",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Help me Obi-Wan %s, you're my only hope.",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "He's holding a thermal detonator",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "I sense great fear in you, Skywalker",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "It's a trap, %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "May the force be with you %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "May the fourth be with you %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Mmm. Lost a planet, Master %s has. How embarrassing",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Mmm. Lost a planet, Master Obi-Wan has. How embarrassing",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "These aren't the droids you are looking for %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "When 900 years old, you reach, look as good, you will not",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Why you stuck-up, half-witted, scruffy-looking nerf-herder",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "You can't win, %s. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "You can't win, Darth. Strike me down, and I will become more powerful than you could possibly imagine",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "ohbee wahn %s. Now that's a name I haven't heard in a long time. Or ever.",
       "weight": 1000000
     },
@@ -273,7 +273,7 @@
       "weight": 5
     },
     {
-      "timeRegexp": ".*Mon.*",
+      "timeRegexp": "^Mon,.*",
       "message": "How was your weekend, %s?"
     },
     {
@@ -328,39 +328,39 @@
   ],
   "returnMessages": [
     {
-      "timeRegexp": ".*May 17, 2017",
+      "timeRegexp": ".* May 17, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*May 17, 2017",
+      "timeRegexp": ".* May 17, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*May 17, 2017",
+      "timeRegexp": ".* May 17, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 14.*",
+      "timeRegexp": ".* Mar 14,.*",
       "message": "I hope you enjoyed pie day, %s!",
       "weight": 75
     },
     {
-      "timeRegexp": ".*Mar 14.*",
+      "timeRegexp": ".* Mar 14,.*",
       "message": "Did you enjoy your pie day, %s?",
       "weight": 75
     },
     {
       "idRegexp": "mjacobsen.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "I hope you had a fine birthday, %s",
       "weight": 1000000
     },
     {
       "idRegexp": "mjacobsen.*",
-      "timeRegexp": ".*Oct 14.*",
+      "timeRegexp": ".* Oct 14,.*",
       "message": "I hope you had a fine actual birthday, %s",
       "weight": 1000000
     },
@@ -371,174 +371,174 @@
     },
     {
       "idRegexp": "garth.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Yo %s! Rock on home, dude!",
       "weight": 1000000
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Oh no. Here comes %s. What now?",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Welcome back to Sky net %s. Please take a seat",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Your advertising message could go here, %s. Call me!",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Click here to promote your website %s",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Hey %s, where is my coffee?",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Where have you been %s?",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Did you remember to lock your car %s?",
       "weight": 200
     },
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "Hey %s, the last one in is a rotten egg!",
       "isLast": "t",
       "weight": 100000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "%s, Aren't you a little short for a storm trooper?",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations",
       "weight": 2000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Ahh, hard to see, the Dark Side is",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "At last we will reveal ourselves to the Jedi. At last we will have revenge",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Don't call me a mindless philosopher, you overweight glob of grease",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Fear is the path to the dark side, %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Go that way, you'll be malfunctioning in a day you near-sighted scrap pile",
       "weight": 500000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Great shot %s, that was one in a million",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Help me Obi-Wan %s, you're my only hope.",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "I find your lack of faith disturbing, %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "I find your lack of faith disturbing",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "I suggest a new strategy, %s: let the Wookiee win",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Laugh it up, Fuzz ball",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Master %s, you disappoint me. Yoda holds you in such high esteem. Surely you can do better",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "May the force be with you %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Obi-Wan has taught you well, %s",
       "weight": 2000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "The force is strong with this one, %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "These aren't the droids you are looking for %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Traveling through hyperspace ain't like dusting crops, %s",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Traveling through hyperspace ain't like dusting crops, farm boy",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "When I left you, I was but the learner; now I am the master",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "ohbee wahn %s. Now that's a name I haven't heard in a long time",
       "weight": 1000000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "ohbee wahn %s. Now that's a name I haven't heard. Ever.",
       "weight": 1000000
     },
@@ -549,19 +549,19 @@
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Thu.*",
+      "timeRegexp": "^Thu,.*",
       "message": "Thank frigg it's thor's day, eh %s?",
       "weight": 200
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Thu.*",
+      "timeRegexp": "^Thu,.*",
       "message": "Tee eff eye thorn %s",
       "weight": 300
     },
     {
       "idRegexp": "duga.*",
-      "timeRegexp": ".*Thu.*",
+      "timeRegexp": "^Thu,.*",
       "message": "Look, it's %s, just for the halibut!",
       "weight": 400
     },
@@ -638,12 +638,12 @@
   ],
   "goMessages": [
     {
-      "timeRegexp": ".*Apr 01.*",
+      "timeRegexp": ".* Apr 01,.*",
       "message": "I hope you all enjoyed April Fools Day. Now, let's go home!",
       "weight": 10000
     },
     {
-      "timeRegexp": ".*May 04.*",
+      "timeRegexp": ".* May 04,.*",
       "message": "Remember,,, the Fourth will be with you, always. Now, let's make the jump to light speed"
       "weight": 10000
     },
@@ -667,12 +667,12 @@
       "weight": 3
     },
     {
-      "timeRegexp": ".*Thu.*",
+      "timeRegexp": "^Thu,.*",
       "message": "I hope you enjoyed t g i f. Let's go home!",
       "weight": 50
     },
     {
-      "timeRegexp": ".*Fri.*",
+      "timeRegexp": "^Fri,.*",
       "message": "Yay! It's Friday! Let's go home!",
       "weight": 1000
     }
