@@ -31,6 +31,18 @@
       "weight": 15
     },
     {
+      "idRegexp": "duga.*",
+      "timeRegexp": ".* May 22,.*",
+      "message": "Hippy barf day, Brady!",
+      "weight": 1000
+    },
+    {
+      "idRegexp": "duga.*",
+      "timeRegexp": ".* May 22,.*",
+      "message": "Happy birthday, Brady!",
+      "weight": 1000
+    },
+    {
       "timeRegexp": ".* Mar 14,.*",
       "message": "Happy pie day, %s!",
       "weight": 75
@@ -46,6 +58,11 @@
       "timeRegexp": ".* Oct 14,.*",
       "message": "Happy real birthday, %s!",
       "weight": 1000000
+    },
+    {
+      "idRegexp": "mjacobsen.*",
+      "message": "Hippy Barf day, %s!",
+      "weight": 5
     },
     {
       "idRegexp": "mjacobsen.*",
@@ -266,6 +283,11 @@
       "idRegexp": "duga.*",
       "message": "Hey, bunch. Where is your Brady?",
       "weight": 10
+    },
+    {
+      "idRegexp": "duga.*",
+      "message": "How is that voe gone poetry coming along, Brady?",
+      "weight": 5
     },
     {
       "idRegexp": "duga.*",
@@ -564,6 +586,12 @@
       "timeRegexp": "^Thu,.*",
       "message": "Look, it's %s, just for the halibut!",
       "weight": 400
+    },
+    {
+      "idRegexp": "duga.*",
+      "timeRegexp": ".* May 22,.*",
+      "message": "I hope you had a hippy barthday, Brady!",
+      "weight": 1000
     },
     {
       "message": "welcome back %s"
