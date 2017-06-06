@@ -389,6 +389,76 @@
       "message": "%, Aren't you a little short for a storm trooper?",
       "weight": 1
     }
+    {
+      "timeRegexp": ".* June 07,.*",
+      "message": "Happy Chocolate Ice Cream day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 09,.*",
+      "message": "Happy Donald Duck day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 09,.*",
+      "message": "Hi, %s. Today is Strawberry Rhubarb Pie day!",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 11,.*",
+      "message": "Happy Corn on the Cob day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 12,.*",
+      "message": "Happy national Children's day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 14,.*",
+      "message": "Hi, %s. Today is Flag day",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 14,.*",
+      "message": "Happy Strawberry Shortcake day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 16,.*",
+      "message": "Happy national fudge day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 20,.*",
+      "message": "Hi, %s. Today is national hike with a geek day",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 20,.*",
+      "message": "Happy national ice cream soda day, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 21,.*",
+      "message": "Happy summer solstice, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 21,.*",
+      "message": "Welcome to summertime, %s",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 21,.*",
+      "message": "Hi, %s. It's summertime!",
+      "weight": 1
+    },
+    {
+      "timeRegexp": ".* June 27,.*",
+      "message": "Happy national orange blossom day, %s",
+      "weight": 1
+    },
   ],
   "alreadyWelcomedMessages": [
     {
