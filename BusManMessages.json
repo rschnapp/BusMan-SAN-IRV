@@ -388,7 +388,7 @@
     {
       "message": "%, Aren't you a little short for a storm trooper?",
       "weight": 1
-    }
+    },
     {
       "timeRegexp": ".* June 07,.*",
       "message": "Happy Chocolate Ice Cream day, %s",
@@ -458,7 +458,7 @@
       "timeRegexp": ".* June 27,.*",
       "message": "Happy national orange blossom day, %s",
       "weight": 1
-    },
+    }
   ],
   "alreadyWelcomedMessages": [
     {
