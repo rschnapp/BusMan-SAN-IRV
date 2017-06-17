@@ -382,11 +382,11 @@
       "message": "Hey %s, nice to see you!"
     },
     {
-      "message": "A pleasure to meet you %. I am C-3PO, Human-Cyborg Relations",
+      "message": "A pleasure to meet you %s. I am C-3PO, Human-Cyborg Relations",
       "weight": 3
     },
     {
-      "message": "%, Aren't you a little short for a storm trooper?",
+      "message": "%s, Aren't you a little short for a storm trooper?",
       "weight": 1
     },
     {
@@ -741,7 +741,7 @@
       "message": "hey %s is back!"
     },
     {
-      "message": "These aren't the droids you are looking for, %",
+      "message": "These aren't the droids you are looking for, %s",
       "weight": 2
     },
     {
