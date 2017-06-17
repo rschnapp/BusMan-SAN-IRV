@@ -33,49 +33,49 @@
     {
       "idRegexp": "ebomike.*",
       "timeRegexp": ".* Jun 14,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "kasemmarifet.*",
       "timeRegexp": ".* Aug 05,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "garth.*",
       "timeRegexp": ".* Apr 17,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "ninachen.*",
       "timeRegexp": ".* Apr 22,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "nithyak.*",
       "timeRegexp": ".* Apr 04,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "tlaubach.*",
       "timeRegexp": ".* Mar 26,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "fuyeda.*",
       "timeRegexp": ".* Jan 14,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
       "idRegexp": "chenluo.*",
       "timeRegexp": ".* Dec 20,.*",
-      "message": "Happy Birthday, %1!",
+      "message": "Happy Birthday, %s!",
       "weight": 1000
     },
     {
