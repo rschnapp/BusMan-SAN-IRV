@@ -2,17 +2,17 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "timeRegexp": ".* Jun 08, 2017 .*",
+      "timeRegexp": ".* Jun 22, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 08, 2017 .*",
+      "timeRegexp": ".* Jun 22, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 08, 2017 .*",
+      "timeRegexp": ".* Jun 22, 2017 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 100
     },
@@ -561,17 +561,18 @@
   ],
   "returnMessages": [
     {
-      "timeRegexp": ".* Jun 07, 2017 .*",
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Jun 21, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 07, 2017 .*",
+      "timeRegexp": ".* Jun 21, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 07, 2017 .*",
+      "timeRegexp": ".* Jun 21, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
