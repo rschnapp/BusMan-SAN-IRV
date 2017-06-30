@@ -2,34 +2,37 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "timeRegexp": ".* Jun 22, 2017 .*",
-      "message": "Hi, %s! Remember, 5 oh clock departure today",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 22, 2017 .*",
-      "message": "The bus leaves at five today, %s",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "The bus leaves at three today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 22, 2017 .*",
-      "message": "Be on the bus by five today, %s",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "Be on the bus by three today, %s",
       "weight": 100
     },
     {
+      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "Hi, %s! Remember, four thirty departure today",
-      "weight": 15
+      "weight": 0
     },
     {
+      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "The bus leaves at four thirty today, %s",
-      "weight": 15
+      "weight": 0
     },
     {
+      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "Be on the bus by four thirty today, %s",
-      "weight": 15
+      "weight": 0
     },
     {
       "idRegexp": "ebomike.*",
@@ -548,6 +551,7 @@
       "weight": 3
     }
   ],
+
   "alreadyWelcomedMessages": [
     {
       "message": "Once is good enough, %s!"
@@ -559,6 +563,7 @@
       "message": "You are already on the list, %s!"
     }
   ],
+
   "returnMessages": [
     {
       "comment": "Early departure warning for next day",
@@ -576,6 +581,26 @@
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
+
+    {
+      "comment": "Four day weekend greeting",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "Looking forward to a four day weekend, %s?",
+      "weight": 50
+    },
+    {
+      "comment": "Four day weekend greeting",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "Enjoy your Independence Day holiday, %s!",
+      "weight": 50
+    },
+    {
+      "comment": "Four day weekend greeting",
+      "timeRegexp": ".* Jun 30, 2017 .*",
+      "message": "Don't forget to come back on Wednesday, %s!",
+      "weight": 50
+    },
+
     {
       "timeRegexp": ".* Mar 14,.*",
       "message": "I hope you enjoyed pie day, %s!",
@@ -854,6 +879,7 @@
       "weight": 25
     }
   ],
+
   "alreadyReturnedMessages": [
     {
       "message": "Once is good enough, %s!",
@@ -876,6 +902,7 @@
       "dejaVu": "f"
     }
   ],
+
   "goMessages": [
     {
       "timeRegexp": ".* Apr 01,.*",
