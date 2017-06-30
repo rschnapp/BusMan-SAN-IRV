@@ -2,37 +2,34 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "Hi, %s! Remember, 3 oh clock departure today",
+      "timeRegexp": ".* Jul 06, 2017 .*",
+      "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "The bus leaves at three today, %s",
+      "timeRegexp": ".* Jul 06, 2017 .*",
+      "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "Be on the bus by three today, %s",
+      "timeRegexp": ".* Jul 06, 2017 .*",
+      "message": "Be on the bus by five today, %s",
       "weight": 100
     },
     {
-      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "Hi, %s! Remember, four thirty departure today",
-      "weight": 0
+      "weight": 15
     },
     {
-      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "The bus leaves at four thirty today, %s",
-      "weight": 0
+      "weight": 15
     },
     {
-      "comment": "DONT FORGET TO MOVE THE SCORE BACK TO 15!",
       "timeRegexp": "^Fri,.*",
       "message": "Be on the bus by four thirty today, %s",
-      "weight": 0
+      "weight": 15
     },
     {
       "idRegexp": "ebomike.*",
@@ -567,17 +564,17 @@
   "returnMessages": [
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jun 21, 2017 .*",
+      "timeRegexp": ".* Jul 05, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 21, 2017 .*",
+      "timeRegexp": ".* Jul 05, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 21, 2017 .*",
+      "timeRegexp": ".* Jul 05, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
