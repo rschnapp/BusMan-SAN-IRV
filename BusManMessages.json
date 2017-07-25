@@ -593,6 +593,22 @@
 
   "returnMessages": [
     {
+      "comment": "No return trip warning for next day",
+      "timeRegexp": ".* Jul 27, 2017 .*",
+      "message": "Good evening, %s. Remember that there will be no southbound shuttle trip tomorrow!",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Jul 27, 2017 .*",
+      "message": "Hi, %s. Remember, due to the amusement park event, there will be no evening bus trip tomorrow!",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Jul 27, 2017 .*",
+      "message": "Welcome, %s. Due to the amusement park event, the shuttle won't carry passengers to San Diego tomorrow.",
+      "weight": 150
+    },
+    {
       "comment": "Early departure warning for next day",
       "timeRegexp": ".* Jul 26, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
