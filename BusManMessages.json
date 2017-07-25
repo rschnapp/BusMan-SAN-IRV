@@ -546,6 +546,21 @@
       "timeRegexp": ".* Jul 31,.*",
       "message": "Slurp some guacamole today, %s. It's National avocado day!",
       "weight": 3
+    },
+    {
+      "timeRegexp": ".* Aug 03,.*",
+      "message": "It's National Watermelon day, %s. Have a big slice for me!",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Aug 11,.*",
+      "message": "It's National Presidential Joke day, %s.",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Aug 26,.*",
+      "message": "Did you know today is National Dog day, %s?",
+      "weight": 3
     }
   ],
 
