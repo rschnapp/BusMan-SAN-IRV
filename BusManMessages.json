@@ -1,33 +1,18 @@
 {
   "welcomeMessages": [
     {
-      "timeRegexp": ".* Jul 28, 2017 .*",
-      "message": "Remember that there is no return shuttle trip today, %s",
-      "weight": 200
-    },
-    {
-      "timeRegexp": ".* Jul 28, 2017 .*",
-      "message": "There is no return bus trip today, %s",
-      "weight": 200
-    },
-    {
-      "timeRegexp": ".* Jul 28, 2017 .*",
-      "message": "Hi, %s. Because of the amusement park event, there is no bus to San Diego this evening.",
-      "weight": 200
-    },
-    {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "timeRegexp": ".* Jul 20, 2017 .*",
+      "timeRegexp": ".* Aug 03, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jul 20, 2017 .*",
+      "timeRegexp": ".* Aug 03, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Jul 20, 2017 .*",
+      "timeRegexp": ".* Aug 03, 2017 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 100
     },
@@ -610,17 +595,17 @@
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jul 19, 2017 .*",
+      "timeRegexp": ".* Aug 02, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 19, 2017 .*",
+      "timeRegexp": ".* Aug 02, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 19, 2017 .*",
+      "timeRegexp": ".* Aug 02, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
