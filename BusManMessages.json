@@ -2,17 +2,17 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "timeRegexp": ".* Aug 03, 2017 .*",
+      "timeRegexp": ".* Aug 31, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Aug 03, 2017 .*",
+      "timeRegexp": ".* Aug 31, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 100
     },
     {
-      "timeRegexp": ".* Aug 03, 2017 .*",
+      "timeRegexp": ".* Aug 31, 2017 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 100
     },
@@ -561,7 +561,38 @@
       "timeRegexp": ".* Aug 26,.*",
       "message": "Did you know today is National Dog day, %s?",
       "weight": 3
+    },
+    {
+      "timeRegexp": ".* Sep 06,.*",
+      "message": "Did you know today is National Coffee Ice Cream day, %s?",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Sep 06,.*",
+      "message": "Today is National Read a Book day, %s. Got something to read during todays ride?",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Sep 09,.*",
+      "message": "Happy National Teddy Bear day, %s!",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Sep 22,.*",
+      "message": "Its National Hobbit day, %s. Tricksy hobbits is, my precious",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Sep 24,.*",
+      "message": "Today is National Punctuation day, comma, %s, exclamation mark!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Aug 26,.*",
+      "message": "Did you know today is National Dog day, %s?",
+      "weight": 3
     }
+
   ],
 
   "alreadyWelcomedMessages": [
@@ -595,37 +626,37 @@
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Aug 02, 2017 .*",
+      "timeRegexp": ".* Aug 30, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 02, 2017 .*",
+      "timeRegexp": ".* Aug 30, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 02, 2017 .*",
+      "timeRegexp": ".* Aug 30, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
 
     {
-      "comment": "Four day weekend greeting",
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "Looking forward to a four day weekend, %s?",
+      "comment": "Three day weekend greeting",
+      "timeRegexp": ".* Sep 01, 2017 .*",
+      "message": "Looking forward to a three day weekend, %s?",
       "weight": 50
     },
     {
-      "comment": "Four day weekend greeting",
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "Enjoy your Independence Day holiday, %s!",
+      "comment": "Three day weekend greeting",
+      "timeRegexp": ".* Sep 01, 2017 .*",
+      "message": "Enjoy your Labor Day holiday, %s!",
       "weight": 50
     },
     {
-      "comment": "Four day weekend greeting",
-      "timeRegexp": ".* Jun 30, 2017 .*",
-      "message": "Don't forget to come back on Wednesday, %s!",
+      "comment": "Three day weekend greeting",
+      "timeRegexp": ".* Sep 01, 2017 .*",
+      "message": "Don't forget to come back on Tuesday, %s!",
       "weight": 50
     },
 
