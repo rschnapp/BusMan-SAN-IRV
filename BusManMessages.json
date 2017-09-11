@@ -2,40 +2,34 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "comment-too": "REDUCE THE WEIGHT TO 75 OR 100",
-      "timeRegexp": ".* Sep 01, 2017 .*",
-      "message": "Hi, %s! Remember, 3 oh clock departure today",
-      "weight": 10000
+      "timeRegexp": ".* Sep 14, 2017 .*",
+      "message": "Hi, %s! Remember, 5 oh clock departure today",
+      "weight": 75
     },
     {
-      "comment-too": "REDUCE THE WEIGHT TO 75 OR 100",
-      "timeRegexp": ".* Sep 01, 2017 .*",
-      "message": "The bus leaves at three today, %s",
-      "weight": 10000
+      "timeRegexp": ".* Sep 14, 2017 .*",
+      "message": "The bus leaves at five today, %s",
+      "weight": 75
     },
     {
-      "comment-too": "REDUCE THE WEIGHT TO 75 OR 100",
-      "timeRegexp": ".* Sep 01, 2017 .*",
-      "message": "Be on the bus by three today, %s",
-      "weight": 10000
+      "timeRegexp": ".* Sep 14, 2017 .*",
+      "message": "Be on the bus by five today, %s",
+      "weight": 75
     },
     {
-      "comment-too": "RESTORE THE WEIGHT TO 15",
       "timeRegexp": "^Fri,.*",
       "message": "Hi, %s! Remember, four thirty departure today",
-      "weight": 1
+      "weight": 15
     },
     {
-      "comment-too": "RESTORE THE WEIGHT TO 15",
       "timeRegexp": "^Fri,.*",
       "message": "The bus leaves at four thirty today, %s",
-      "weight": 1
+      "weight": 15
     },
     {
-      "comment-too": "RESTORE THE WEIGHT TO 15",
       "timeRegexp": "^Fri,.*",
       "message": "Be on the bus by four thirty today, %s",
-      "weight": 1
+      "weight": 15
     },
     {
       "idRegexp": "ebomike.*",
@@ -632,18 +626,18 @@
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Aug 31, 2017 .*",
-      "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
+      "timeRegexp": ".* Sep 13, 2017 .*",
+      "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2017 .*",
-      "message": "Hi, %s. The bus leaves at 3 tomorrow!",
+      "timeRegexp": ".* Sep 13, 2017 .*",
+      "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2017 .*",
-      "message": "Hey, the bus leaves at 3 oh clock tomorrow, %s!",
+      "timeRegexp": ".* Sep 13, 2017 .*",
+      "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
 
