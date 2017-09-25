@@ -33,6 +33,12 @@
       "weight": 15
     },
     {
+      "idRegexp": "jmrunkle.*",
+      "timeRegexp": ".* Sep 25,.*",
+      "message": "Happy Birthday, %s!",
+      "weight": 1000
+    },
+    {
       "idRegexp": "ebomike.*",
       "timeRegexp": ".* Jun 14,.*",
       "message": "Happy Birthday, %s!",
