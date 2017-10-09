@@ -3,18 +3,28 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early TGIF departure today",
-      "timeRegexp": ".* Sep 14, 2017 .*",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 14, 2017 .*",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 14, 2017 .*",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "Be on the bus by five today, %s",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Oct 10, 2017 .*",
+      "message": "Hi, %s. Are you going to get your flu shot today?",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Oct 11, 2017 .*",
+      "message": "Hi, %s. Did you get your flu shot yet?",
       "weight": 75
     },
     {
@@ -389,14 +399,6 @@
     {
       "message": "Hey %s, nice to see you!"
     },
-    {
-      "message": "A pleasure to meet you %s. I am See 3 Pee Oh, Human-Cyborg Relations",
-      "weight": 1
-    },
-    {
-      "message": "%s, Aren't you a little short for a storm trooper?",
-      "weight": 1
-    },
 
     {
       "comment": "Here are some national holiday messages. Use a low prio!",
@@ -570,6 +572,11 @@
       "weight": 3
     },
     {
+      "timeRegexp": ".* Aug 26,.*",
+      "message": "Did you know today is National Dog day, %s?",
+      "weight": 3
+    },
+    {
       "timeRegexp": ".* Sep 06,.*",
       "message": "Did you know today is National Coffee Ice Cream day, %s?",
       "weight": 3
@@ -594,10 +601,46 @@
       "message": "Today is National Punctuation day, comma, %s, exclamation mark!",
       "weight": 15
     },
+
     {
-      "timeRegexp": ".* Aug 26,.*",
-      "message": "Did you know today is National Dog day, %s?",
-      "weight": 3
+      "timeRegexp": ".* Oct 03,.*",
+      "message": "Today is National Techies Day, %s. A good day for Googlers!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 06,.*",
+      "message": "How's your noodle, %s? Today is National Noodle Day!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 09,.*",
+      "message": "Hi %s. Did you know today is National Moldy Cheese Day?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 14,.*",
+      "message": "Today is National Dessert Day. Don't forget to grab some at lunch!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 15,.*",
+      "message": "Cheer up. It's national Grouch Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 28,.*",
+      "message": "It's national Chocolate Day, %s. Have a chocolate snack today!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 31,.*",
+      "message": "Boo! Happy Halloween, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Oct 31,.*",
+      "message": "Knock, Knock, %s! It's National Knock Knock Joke Day. You start!",
+      "weight": 15
     }
 
   ],
@@ -632,18 +675,18 @@
       "weight": 150
     },
     {
-      "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Sep 13, 2017 .*",
+      "comment": "Early TGIF departure warning for next day",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 13, 2017 .*",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 13, 2017 .*",
+      "timeRegexp": ".* Oct 12, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
