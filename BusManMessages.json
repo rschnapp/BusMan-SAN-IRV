@@ -18,12 +18,12 @@
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 10, 2017 .*",
+      "timeRegexp": ".* Oct 1[01], 2017 .*",
       "message": "Hi, %s. Are you going to get your flu shot today?",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 11, 2017 .*",
+      "timeRegexp": ".* Oct 1[01], 2017 .*",
       "message": "Hi, %s. Did you get your flu shot yet?",
       "weight": 75
     },
