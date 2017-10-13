@@ -18,6 +18,24 @@
       "weight": 75
     },
     {
+      "timeRegexp": ".* Oct 13, 2017 .*",
+      "comment-too": "Normal Friday departure today",
+      "message": "Yesterday's announcement was wrong. The bus leaves at four thirty today, %s",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Oct 13, 2017 .*",
+      "comment-too": "Normal Friday departure today",
+      "message": "Hi, %s! Remember, four thirty departure today",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Oct 13, 2017 .*",
+      "comment-too": "Normal Friday departure today",
+      "message": "Be on the bus by four thirty today, %s",
+      "weight": 150
+    },
+    {
       "timeRegexp": ".* Oct 1[01], 2017 .*",
       "message": "Hi, %s. Are you going to get your flu shot today?",
       "weight": 75
@@ -676,17 +694,17 @@
     },
     {
       "comment": "Early TGIF departure warning for next day",
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Oct 11, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Oct 11, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Oct 11, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
