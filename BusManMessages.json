@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early TGIF departure today",
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Nov 09, 2017 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Nov 09, 2017 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 12, 2017 .*",
+      "timeRegexp": ".* Nov 09, 2017 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -659,6 +659,127 @@
       "timeRegexp": ".* Oct 31,.*",
       "message": "Knock, Knock, %s! It's National Knock Knock Joke Day. You start!",
       "weight": 15
+    },
+
+    {
+      "timeRegexp": ".* Nov 05,.*",
+      "message": "Happy National Doughnut Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 06,.*",
+      "message": "Did you know today is National Nachos Day, %s?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 08,.*",
+      "message": "Hey, today is National Cappucino Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 11,.*",
+      "message": "Thank a veteran today, %s. It's Veteran's Day.",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 15,.*",
+      "message": "Hi, %s. It's National Philanthropy Day.",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 20,.*",
+      "message": "Gezundheit. It's National Absurdity Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 20,.*",
+      "message": "It's National Absurdity Day, %s! What color is your firefly?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Nov 26,.*",
+      "message": "It's National Cookie Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 01,.*",
+      "message": "Happy National Pie (as in pumpkin pie) Day, %s.",
+      "weight": 13
+    },
+    {
+      "timeRegexp": ".* Dec 01,.*",
+      "message": "Happy National Pie (as in apple pie) Day, %s.",
+      "weight": 13
+    },
+    {
+      "timeRegexp": ".* Dec 01,.*",
+      "message": "Happy National Pie (as in banana cream pie) Day, %s.",
+      "weight": 13
+    },
+    {
+      "timeRegexp": ".* Dec 01,.*",
+      "message": "Happy National Pie (as in pecan pie) Day, %s.",
+      "weight": 13
+    },
+    {
+      "timeRegexp": ".* Dec 01,.*",
+      "message": "Happy National Pie (as in lemon meringue pie) Day, %s.",
+      "weight": 13
+    },
+    {
+      "timeRegexp": ".* Dec 08,.*",
+      "message": "Did you know today is National Brownie Day, %s?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 08,.*",
+      "message": "Today is National Pretend to be a Time Traveller  Day, %s. Where is your Tardis?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 15,.*",
+      "message": "Do you know your rights, %s? Today is National Bill of Rights day!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 17,.*",
+      "message": "It's National Maple Syrup Day, %s. Put some on your pancakes today!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 21,.*",
+      "message": "Humbug, %s! It's National Humbug Day. Who knew?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 21,.*",
+      "message": "Winter has arrived, %s. It's the Winter Solstice.",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 23,.*",
+      "message": "George Costanza said to remind you that today is Festivus, %s. What's your complaint?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 23,.*",
+      "message": "It's Festivus, %s. Is your beer pole ready?",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 24,.*",
+      "message": "Today is National Eggnog Day, %s!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 27,.*",
+      "message": "It's National Fruitcake Day, %s. Yum!",
+      "weight": 15
+    },
+    {
+      "timeRegexp": ".* Dec 31,.*",
+      "message": "Party responsibly tonight, %s. Happy New Year's Eve.",
+      "weight": 15
     }
 
   ],
@@ -694,17 +815,17 @@
     },
     {
       "comment": "Early TGIF departure warning for next day",
-      "timeRegexp": ".* Oct 11, 2017 .*",
+      "timeRegexp": ".* Nov 08, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 11, 2017 .*",
+      "timeRegexp": ".* Nov 08, 2017 .*",
       "message": "Hi, %s. The bus leaves at 5 tomorrow!",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 11, 2017 .*",
+      "timeRegexp": ".* Nov 08, 2017 .*",
       "message": "Hey, the bus leaves at 5 oh clock tomorrow, %s!",
       "weight": 75
     },
