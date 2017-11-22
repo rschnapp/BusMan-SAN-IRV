@@ -2,19 +2,19 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "comment-too": "Early TGIF departure today",
-      "timeRegexp": ".* Nov 09, 2017 .*",
-      "message": "Hi, %s! Remember, 5 oh clock departure today",
+      "comment-too": "Early departure today",
+      "timeRegexp": ".* Nov 22, 2017 .*",
+      "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 09, 2017 .*",
-      "message": "The bus leaves at five today, %s",
+      "timeRegexp": ".* Nov 22, 2017 .*",
+      "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 09, 2017 .*",
-      "message": "Be on the bus by five today, %s",
+      "timeRegexp": ".* Nov 22, 2017 .*",
+      "message": "Be on the bus by three today, %s",
       "weight": 75
     },
     {
