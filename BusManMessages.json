@@ -813,6 +813,26 @@
       "message": "Welcome, %s. Due to the amusement park event, the shuttle won't carry passengers to San Diego tomorrow.",
       "weight": 150
     },
+
+    {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Nov 21, 2017 .*",
+      "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
+      "weight": 75
+    },
+    {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Nov 21, 2017 .*",
+      "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
+      "weight": 75
+    },
+    {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Nov 21, 2017 .*",
+      "message": "Be on the bus by 3 tomorrow, %s!",
+      "weight": 75
+    },
+
     {
       "comment": "Early TGIF departure warning for next day",
       "timeRegexp": ".* Nov 08, 2017 .*",
