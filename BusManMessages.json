@@ -3,6 +3,22 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
+      "timeRegexp": ".* Dec 21, 2017 .*",
+      "message": "Hi, %s! Remember, 5 oh clock departure today",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Dec 21, 2017 .*",
+      "message": "The bus leaves at five today, %s",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Dec 21, 2017 .*",
+      "message": "Be on the bus by five today, %s",
+      "weight": 75
+    },
+    {
+      "comment-too": "Early departure today",
       "timeRegexp": ".* Dec 22, 2017 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
@@ -17,6 +33,7 @@
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
+
     {
       "comment-too": "Early departure today",
       "timeRegexp": ".* Dec 28, 2017 .*",
@@ -833,38 +850,38 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
-      "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
+      "timeRegexp": ".* Dec 20, 2017 .*",
+      "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
-      "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
+      "timeRegexp": ".* Dec 20, 2017 .*",
+      "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
-      "message": "Be on the bus by 3 tomorrow, %s!",
+      "timeRegexp": ".* Dec 20, 2017 .*",
+      "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Dec 21, 2017 .*",
       "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Dec 21, 2017 .*",
       "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Dec 21, 2017 .*",
       "message": "Be on the bus by 3 tomorrow, %s!",
       "weight": 75
     },
@@ -895,6 +912,25 @@
     },
 
     {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Dec 27, 2017 .*",
+      "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
+      "weight": 75
+    },
+    {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Dec 27, 2017 .*",
+      "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
+      "weight": 75
+    },
+    {
+      "comment": "Early departure warning for next day",
+      "timeRegexp": ".* Dec 27, 2017 .*",
+      "message": "Be on the bus by 3 tomorrow, %s!",
+      "weight": 75
+    },
+
+    {
       "comment": "Happy New Year message",
       "timeRegexp": ".* Dec 28, 2017 .*",
       "message": "Have a great holiday, %s!",
@@ -916,6 +952,12 @@
       "comment": "Happy New Year message",
       "timeRegexp": ".* Dec 28, 2017 .*",
       "message": "Hi, %s! Have a safe and happy New Year.",
+      "weight": 75
+    },
+    {
+      "comment": "Happy New Year message",
+      "timeRegexp": ".* Dec 28, 2017 .*",
+      "message": "See you next year, %s! Have a safe and happy holiday.",
       "weight": 75
     },
 
