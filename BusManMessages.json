@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jan 04, 2018 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jan 04, 2018 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jan 04, 2018 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -393,6 +393,11 @@
       "weight": 100
     },
     {
+      "idRegexp": "garth.*",
+      "message": "Your imperial cruiser awaits, %s Vader",
+      "weight": 100
+    },
+    {
       "idRegexp": "duga.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
       "weight": 15
@@ -454,6 +459,32 @@
 
     {
       "comment": "Here are some national holiday messages. Use a low prio!",
+      "timeRegexp": ".* Jan 04,.*",
+      "message": "It's national spaghetti day, %s. What will you be having for lunch?",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Jan 09,.*",
+      "message": "Today is national static electricity day, %s. Are you all charged up about it?",
+      "weight": 6
+    },
+    {
+      "timeRegexp": ".* Jan 11,.*",
+      "message": "Got milk? Today is national milk day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Jan 19,.*",
+      "message": "Happy national popcorn day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Jan 28,.*",
+      "message": "Got a comb and some tissue paper, %s? It's national kazoo day!",
+      "weight": 3
+    },
+
+    {
       "timeRegexp": ".* Jun 07,.*",
       "message": "Happy Chocolate Ice Cream day, %s",
       "weight": 3
@@ -850,19 +881,19 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 20, 2017 .*",
+      "timeRegexp": ".* Jan 03, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 20, 2017 .*",
+      "timeRegexp": ".* Jan 03, 2018 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 20, 2017 .*",
+      "timeRegexp": ".* Jan 03, 2018 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
