@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Jan 25, 2018 .*",
+      "timeRegexp": ".* Feb 15, 2018 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jan 25, 2018 .*",
+      "timeRegexp": ".* Feb 15, 2018 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jan 25, 2018 .*",
+      "timeRegexp": ".* Feb 15, 2018 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -485,6 +485,37 @@
     },
 
     {
+      "timeRegexp": ".* Feb 02,.*",
+      "message": "It's Groundhog Day, %s!",
+      "weight": 12
+    },
+    {
+      "timeRegexp": ".* Feb 05,.*",
+      "message": "Happy Nutella Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Feb 06,.*",
+      "message": "Happy National Frozen Yogurt Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Feb 09,.*",
+      "message": "Happy National Pizza Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Feb 13, 2018",
+      "message": "Happy Mardis Gras, %s",
+      "weight": 12
+    },
+    {
+      "timeRegexp": ".* Feb 14,.*",
+      "message": "Happy Valentine's Day, %s",
+      "weight": 3
+    },
+
+    {
       "timeRegexp": ".* Jun 07,.*",
       "message": "Happy Chocolate Ice Cream day, %s",
       "weight": 3
@@ -881,19 +912,19 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jan 24, 2018 .*",
+      "timeRegexp": ".* Feb 14, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jan 24, 2018 .*",
+      "timeRegexp": ".* Feb 14, 2018 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jan 24, 2018 .*",
+      "timeRegexp": ".* Feb 14, 2018 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
