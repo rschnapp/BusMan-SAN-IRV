@@ -922,19 +922,19 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Feb 21, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Feb 21, 2018 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Feb 21, 2018 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
