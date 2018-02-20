@@ -505,7 +505,17 @@
       "weight": 3
     },
     {
-      "timeRegexp": ".* Feb 13, 2018",
+      "timeRegexp": ".* Mar 05, 2019",
+      "message": "Happy Mardis Gras, %s",
+      "weight": 12
+    },
+    {
+      "timeRegexp": ".* Feb 25, 2020",
+      "message": "Happy Mardis Gras, %s",
+      "weight": 12
+    },
+    {
+      "timeRegexp": ".* Feb 16, 2021",
       "message": "Happy Mardis Gras, %s",
       "weight": 12
     },
