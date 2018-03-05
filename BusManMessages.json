@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Mar 08, 2018 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Mar 08, 2018 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Feb 22, 2018 .*",
+      "timeRegexp": ".* Mar 08, 2018 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -526,6 +526,63 @@
     },
 
     {
+      "timeRegexp": ".* Mar 01,.*",
+      "message": "Got Milk? Happy Peanut Butter Lover's Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Mar 06,.*",
+      "message": "Is it safe? Happy National Dentist's Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Mar 08,.*",
+      "message": "Did I spell this right? It's National Proofreading Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Mar 08,.*",
+      "message": "Happy International Women's Day, %s",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Mar 14,.*",
+      "message": "I hope you enjoyed pie day, %s!",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Mar 14,.*",
+      "message": "Did you enjoy your pie day, %s?",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Mar 22,.*",
+      "message": "Did you know today is National Goof Off Day, %s?",
+      "weight": 3
+    },
+    {
+      "timeRegexp": ".* Mar 23,.*",
+      "message": "Did you know today is Cha Cha Cha Chia Day, %s?",
+      "weight": 3
+    },
+
+    {
+      "timeRegexp": ".* Mar 09, 2018",
+      "message": "Don't forget to spring forward on Sunday, %s",
+      "weight": 30
+    },
+    {
+      "timeRegexp": ".* Mar 08, 2019",
+      "message": "Don't forget to spring forward on Sunday, %s",
+      "weight": 30
+    },
+    {
+      "timeRegexp": ".* Mar 05, 2020",
+      "message": "Don't forget to spring forward on Sunday, %s",
+      "weight": 30
+    },
+
+    {
       "timeRegexp": ".* Jun 07,.*",
       "message": "Happy Chocolate Ice Cream day, %s",
       "weight": 3
@@ -768,6 +825,22 @@
     },
 
     {
+      "timeRegexp": ".* Nov 02, 2018",
+      "message": "Don't forget to fall back on Sunday, %s!",
+      "weight": 30
+    },
+    {
+      "timeRegexp": ".* Nov 01, 2019",
+      "message": "Don't forget to fall back on Sunday, %s!",
+      "weight": 30
+    },
+    {
+      "timeRegexp": ".* Oct 30, 2020",
+      "message": "Don't forget to fall back on Sunday, %s!",
+      "weight": 30
+    },
+
+    {
       "timeRegexp": ".* Nov 05,.*",
       "message": "Happy National Doughnut Day, %s!",
       "weight": 15
@@ -922,19 +995,19 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 21, 2018 .*",
+      "timeRegexp": ".* Mar 07, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 21, 2018 .*",
+      "timeRegexp": ".* Mar 07, 2018 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Feb 21, 2018 .*",
+      "timeRegexp": ".* Mar 07, 2018 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
@@ -1069,16 +1142,6 @@
       "weight": 50
     },
 
-    {
-      "timeRegexp": ".* Mar 14,.*",
-      "message": "I hope you enjoyed pie day, %s!",
-      "weight": 75
-    },
-    {
-      "timeRegexp": ".* Mar 14,.*",
-      "message": "Did you enjoy your pie day, %s?",
-      "weight": 75
-    },
     {
       "idRegexp": "mjacobsen.*",
       "timeRegexp": ".* Apr 01,.*",
