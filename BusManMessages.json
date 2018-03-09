@@ -546,6 +546,11 @@
       "weight": 3
     },
     {
+      "timeRegexp": ".* Mar 10,.*",
+      "message": "Happy National Mario day, %s.",
+      "weight": 12
+    },
+    {
       "timeRegexp": ".* Mar 14,.*",
       "message": "I hope you enjoyed pie day, %s!",
       "weight": 75
