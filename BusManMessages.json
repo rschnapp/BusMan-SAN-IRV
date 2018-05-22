@@ -52,23 +52,22 @@
     },
 
     {
-      "timeRegexp": ".* Oct 13, 2017 .*",
-      "comment-too": "Normal Friday departure today",
-      "message": "Yesterday's announcement was wrong. The bus leaves at four thirty today, %s",
+      "timeRegexp": ".* May 25, 2018 .*",
+      "comment-too": "Early Friday departure today",
+      "message": "Hi! The bus leaves at three oh clock today, %s.",
       "weight": 150
     },
     {
-      "timeRegexp": ".* Oct 13, 2017 .*",
-      "comment-too": "Normal Friday departure today",
-      "message": "Hi, %s! Remember, four thirty departure today",
+      "timeRegexp": ".* May 25, 2018 .*",
+      "message": "Hi, %s! The bus leaves at three today!",
       "weight": 150
     },
     {
-      "timeRegexp": ".* Oct 13, 2017 .*",
-      "comment-too": "Normal Friday departure today",
-      "message": "Be on the bus by four thirty today, %s",
+      "timeRegexp": ".* May 25, 2018 .*",
+      "message": "Happy Memorial Day Weekend, %s! The bus leaves at three!",
       "weight": 150
     },
+
     {
       "timeRegexp": ".* Oct 1[01], 2017 .*",
       "message": "Hi, %s. Are you going to get your flu shot today?",
@@ -1032,6 +1031,23 @@
     {
       "timeRegexp": ".* Jul 27, 2017 .*",
       "message": "Welcome, %s. Due to the amusement park event, the shuttle won't carry passengers to San Diego tomorrow.",
+      "weight": 150
+    },
+
+    {
+      "comment": "Early return trip warning for next day, for Memorial Day weekend",
+      "timeRegexp": ".* May 24, 2018 .*",
+      "message": "Hi, %s! The bus will leave at three tomorrow!",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* May 24, 2018 .*",
+      "message": "Because of Memorial Day weekend, the bus will leave at three oh clock tomorrow, %s",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* May 24, 2018 .*",
+      "message": "The bus leaves at three tomorrow, %s",
       "weight": 150
     },
 
