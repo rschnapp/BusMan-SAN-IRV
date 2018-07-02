@@ -19,34 +19,34 @@
     },
     {
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Dec 22, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 22, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 22, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
 
     {
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Dec 28, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 28, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Dec 28, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
@@ -1072,45 +1072,45 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jul 2, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jul 2, 2018 .*",
       "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 21, 2017 .*",
+      "timeRegexp": ".* Jul 2, 2018 .*",
       "message": "Be on the bus by 3 tomorrow, %s!",
       "weight": 75
     },
 
     {
       "comment": "Happy holiday message",
-      "timeRegexp": ".* Dec 22, 2017 .*",
-      "message": "Have a great holiday, %s!",
+      "timeRegexp": ".* Jul 3, 2018 .*",
+      "message": "Have a great fourth, %s!",
       "weight": 75
     },
     {
       "comment": "Happy holiday message",
-      "timeRegexp": ".* Dec 22, 2017 .*",
+      "timeRegexp": ".* Jul 3, 2018 .*",
       "message": "Enjoy your time off, %s!",
       "weight": 75
     },
     {
       "comment": "Happy holiday message",
-      "timeRegexp": ".* Dec 22, 2017 .*",
-      "message": "Happy holidays, %s!",
+      "timeRegexp": ".* Jul 3, 2018 .*",
+      "message": "Happy fireworks, %s!",
       "weight": 75
     },
     {
       "comment": "Happy holiday message",
-      "timeRegexp": ".* Dec 22, 2017 .*",
-      "message": "Welcome back, %s! Enjoy your holiday.",
+      "timeRegexp": ".* Jul 3, 2018 .*",
+      "message": "Welcome back, %s! Enjoy your Independence Day.",
       "weight": 75
     },
 
