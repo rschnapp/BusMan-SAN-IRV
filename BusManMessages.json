@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Jun 14, 2018 .*",
+      "timeRegexp": ".* Jul 12, 2018 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 14, 2018 .*",
+      "timeRegexp": ".* Jul 12, 2018 .*",
       "message": "The bus leaves at five today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jun 14, 2018 .*",
+      "timeRegexp": ".* Jul 12, 2018 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -1017,6 +1017,22 @@
   ],
 
   "returnMessages": [
+    {
+      "comment": "No bus warning for next day",
+      "timeRegexp": ".* Jul 12, 2018 .*",
+      "message": "Hi, %s! No bus service tomorrow!",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Jul 12, 2018 .*",
+      "message": "Hi, %s. Remember that there will be no bus tomorrow because of our summer picnic!",
+      "weight": 150
+    },
+    {
+      "timeRegexp": ".* Jul 12, 2018 .*",
+      "message": "Welcome, %s. Due to the picnic, the shuttle won't be in service tomorrow.",
+      "weight": 150
+    },
     {
       "comment": "No return trip warning for next day",
       "timeRegexp": ".* Jul 27, 2017 .*",
