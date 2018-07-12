@@ -249,6 +249,21 @@
       "weight": 1000000
     },
     {
+      "idRegexp": "ebomike.*",
+      "message": "Eat farts, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "You are a goddamn delight, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "You suck, %s",
+      "weight": 10
+    },
+    {
       "idRegexp": "duga.*",
       "timeRegexp": ".* Apr 01,.*",
       "message": "!locale(en_GB)Welcome to my Tardis %s. This one is bigger on the outside!",
@@ -1017,6 +1032,18 @@
   ],
 
   "returnMessages": [
+    {
+      "idRegexp": "radtke.*",
+      "timeRegexp": ".* Jul 12, 2018 .*",
+      "message": "Bye %s! Good luck in Zurich! We're going to miss you!",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "timeRegexp": ".* Jul 12, 2018 .*",
+      "message": "Hey %s, this is a test message to make sure you didn't fuck up the configuration file.",
+      "weight": 1000000
+    },
     {
       "comment": "No bus warning for next day",
       "timeRegexp": ".* Jul 12, 2018 .*",
