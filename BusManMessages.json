@@ -265,7 +265,7 @@
     },
     {
       "idRegexp": "ebomike.*",
-      "message": "Morning %s, just shut up and sit your ass down.",
+      "message": "Morning %s, just shut up and sit your butt down.",
       "weight": 10
     },
     {
@@ -277,6 +277,48 @@
       "idRegexp": "ebomike.*",
       "message": "You suck, %s",
       "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Nobody really likes you, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Not you again, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "It was such a nice day until you came, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "I was hoping you would miss the bus, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Hey %s. Please leave.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Hey %s, how horrible to see you again!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "mikejberg.*",
+      "timeRegexp": ".* Aug 02,.*",
+      "message": "Did you take the wrong bus stop again, %s?",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mikejberg.*",
+      "timeRegexp": ".* Aug 03,.*",
+      "message": "This is your last short commute, %s. Hope you liked it.",
+      "weight": 1000000
     },
     {
       "idRegexp": "duga.*",
@@ -1244,6 +1286,18 @@
       "timeRegexp": ".* Sep 01, 2017 .*",
       "message": "Don't forget to come back on Tuesday, %s!",
       "weight": 50
+    },
+    {
+      "idRegexp": "mikejberg.*",
+      "timeRegexp": ".* Aug 02,.*",
+      "message": "Remember to get off in Oceanside, %s. I'm not going to wake you up.",
+      "weight": 1000000
+    },
+    {
+      "idRegexp": "mikejberg.*",
+      "timeRegexp": ".* Aug 03,.*",
+      "message": "Bet you five bucks you'll accidentally get off in Oceanside again next week, %s.",
+      "weight": 1000000
     },
 
     {
