@@ -19,52 +19,52 @@
     },
     {
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
 
     {
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 03, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
 
     {
-      "timeRegexp": ".* May 25, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "comment-too": "Early Friday departure today",
       "message": "Hi! The bus leaves at three oh clock today, %s.",
       "weight": 150
     },
     {
-      "timeRegexp": ".* May 25, 2018 .*",
+      "timeRegexp": ".* Aug 31, 2018 .*",
       "message": "Hi, %s! The bus leaves at three today!",
       "weight": 150
     },
     {
-      "timeRegexp": ".* May 25, 2018 .*",
-      "message": "Happy Memorial Day Weekend, %s! The bus leaves at three!",
+      "timeRegexp": ".* Aug 31, 2018 .*",
+      "message": "Happy Labor Day Weekend, %s! The bus leaves at three!",
       "weight": 150
     },
 
@@ -1124,17 +1124,17 @@
 
     {
       "comment": "Early return trip warning for next day, for Memorial Day weekend",
-      "timeRegexp": ".* May 24, 2018 .*",
+      "timeRegexp": ".* Aug 30, 2018 .*",
       "message": "Hi, %s! The bus will leave at three tomorrow!",
       "weight": 150
     },
     {
-      "timeRegexp": ".* May 24, 2018 .*",
-      "message": "Because of Memorial Day weekend, the bus will leave at three oh clock tomorrow, %s",
+      "timeRegexp": ".* Aug 30, 2018 .*",
+      "message": "Because of Labor Day weekend, the bus will leave at three oh clock tomorrow, %s",
       "weight": 150
     },
     {
-      "timeRegexp": ".* May 24, 2018 .*",
+      "timeRegexp": ".* Aug 30, 2018 .*",
       "message": "The bus leaves at three tomorrow, %s",
       "weight": 150
     },
@@ -1160,19 +1160,19 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jul 02, 2018 .*",
+      "timeRegexp": ".* Aug 30, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jul 02, 2018 .*",
+      "timeRegexp": ".* Aug 30, 2018 .*",
       "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jul 02, 2018 .*",
+      "timeRegexp": ".* AUg 30, 2018 .*",
       "message": "Be on the bus by 3 tomorrow, %s!",
       "weight": 75
     },
