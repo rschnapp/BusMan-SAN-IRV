@@ -8,8 +8,18 @@
       "weight": 75
     },
     {
-      "timeRegexp": ".* Oct 18, 2018 .*",
-      "message": "The bus leaves at five today, %s",
+      "timeRegexp": ".* Nov 01, 2018 .*",
+      "message": "Leaving at five today, %s. I forgot to mention that.",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Nov 01, 2018 .*",
+      "message": "Departure at five today, %s.",
+      "weight": 75
+    },
+    {
+      "timeRegexp": ".* Nov 01, 2018 .*",
+      "message": "We're actually leaving at five today, %s.",
       "weight": 75
     },
     {
