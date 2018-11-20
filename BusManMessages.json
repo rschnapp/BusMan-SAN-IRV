@@ -24,47 +24,47 @@
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
 
     {
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "Hi, %s! Remember, 3 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "The bus leaves at three today, %s",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "Be on the bus by three today, %s",
       "weight": 75
     },
 
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "comment-too": "Early Friday departure today",
       "message": "Hi! The bus leaves at three oh clock today, %s.",
       "weight": 150
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "Hi, %s! The bus leaves at three today!",
       "weight": 150
     },
     {
-      "timeRegexp": ".* Aug 31, 2018 .*",
-      "message": "Happy Labor Day Weekend, %s! The bus leaves at three!",
+      "timeRegexp": ".* Nov 21, 2018 .*",
+      "message": "Happy Thanksgiving Weekend, %s! The bus leaves at three!",
       "weight": 150
     },
 
@@ -1204,32 +1204,32 @@
 
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Nov 20, 2018 .*",
       "message": "Good evening, %s. We will be leaving at 3 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Nov 20, 2018 .*",
       "message": "Hi, %s. Bus leaves at 3 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Dec 27, 2017 .*",
+      "timeRegexp": ".* Nov 20, 2018 .*",
       "message": "Be on the bus by 3 tomorrow, %s!",
       "weight": 75
     },
 
     {
       "comment": "Happy New Year message",
-      "timeRegexp": ".* Dec 28, 2017 .*",
-      "message": "Have a great holiday, %s!",
+      "timeRegexp": ".* Nov 21, 2018 .*",
+      "message": "Have a great Thanksgiving, %s!",
       "weight": 75
     },
     {
       "comment": "Happy New Year message",
-      "timeRegexp": ".* Dec 28, 2017 .*",
+      "timeRegexp": ".* Nov 21, 2018 .*",
       "message": "Enjoy your time off, %s!",
       "weight": 75
     },
