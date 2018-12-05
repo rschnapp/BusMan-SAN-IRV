@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Nov 15, 2018 .*",
+      "timeRegexp": ".* Dec 06, 2018 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 15, 2018 .*",
+      "timeRegexp": ".* Dec 06, 2018 .*",
       "message": "Departure at five today, %s.",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 15, 2018 .*",
+      "timeRegexp": ".* Dec 06, 2018 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
