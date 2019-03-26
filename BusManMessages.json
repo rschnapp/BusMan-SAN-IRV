@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Mar 21, 2019 .*",
+      "timeRegexp": ".* Mar 28, 2019 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Mar 21, 2019 .*",
+      "timeRegexp": ".* Mar 28, 2019 .*",
       "message": "Departure at five today, %s.",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Mar 21, 2019 .*",
+      "timeRegexp": ".* Mar 28, 2019 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -1156,19 +1156,19 @@
     
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Mar 20, 2019 .*",
+      "timeRegexp": ".* Mar 27, 2019 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Mar 20, 2019 .*",
+      "timeRegexp": ".* Mar 27, 2019 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Mar 20, 2019 .*",
+      "timeRegexp": ".* Mar 27, 2019 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
