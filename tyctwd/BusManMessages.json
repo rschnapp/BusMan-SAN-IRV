@@ -7,7 +7,7 @@
       "message": "Good to see you, %s"
     },
     {
-      "message": "Do you want to build a snowman, %s?"
+      "message": "Do you want to build a robot, %s?"
     },
     {
       "message": "Let's get to work, %s"
@@ -23,6 +23,15 @@
     },
     {
       "message": "Hi, I'm %s, and I like warm hugs."
+    },
+    {
+      "message": "Are you a robot, %s?"
+    },
+    {
+      "message": "Great to have you here, %s!"
+    },
+    {
+      "message": "Have a great day, %s!"
     },
     {
       "message": "Thank you, %s, for bringing your parent to work today!"
@@ -36,7 +45,7 @@
       "message": "Good to see you, %s"
     },
     {
-      "message": "Do you want to build a snowman, %s?"
+      "message": "Do you want to build a robot, %s?"
     },
     {
       "message": "Let's get to work, %s"
@@ -52,6 +61,15 @@
     },
     {
       "message": "Hi, I'm %s, and I like warm hugs."
+    },
+    {
+      "message": "Are you a robot, %s?"
+    },
+    {
+      "message": "Great to have you here, %s!"
+    },
+    {
+      "message": "Have a great day, %s!"
     },
     {
       "message": "Thank you, %s, for bringing your parent to work today!"
