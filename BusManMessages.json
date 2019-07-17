@@ -8,21 +8,6 @@
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jul 16, 2019 .*",
-      "message": "Please fill out the bus form today, %s.",
-      "weight": 1000
-    },
-    {
-      "timeRegexp": ".* Jul 16, 2019 .*",
-      "message": "Don't forget to fill out the bus form please, %s.",
-      "weight": 1000
-    },
-    {
-      "timeRegexp": ".* Jul 16, 2019 .*",
-      "message": "The form for the Friday bus departure is due today, %s.",
-      "weight": 1000
-    },
-    {
       "timeRegexp": ".* Jul 11, 2019 .*",
       "message": "Departure at five today, %s.",
       "weight": 75
@@ -273,6 +258,11 @@
     },
     {
       "idRegexp": "ebomike.*",
+      "message": "Take a hike, bozo.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
       "message": "Get lost, %s.",
       "weight": 10
     },
@@ -329,6 +319,21 @@
     {
       "idRegexp": "ebomike.*",
       "message": "%s, get out.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Go away.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "Get out.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "ebomike.*",
+      "message": "We don't want you here.",
       "weight": 10
     },
     {
