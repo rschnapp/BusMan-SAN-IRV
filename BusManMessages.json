@@ -337,6 +337,36 @@
       "weight": 10
     },
     {
+      "idRegexp": "schmirob.*",
+      "message": "How's that Arabic keyboard layout, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "schmirob.*",
+      "message": "Your keyboard is broken, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "schmirob.*",
+      "message": "Is that a mouse or an iron, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "schmirob.*",
+      "message": "Do you miss Rockstar yet, %s",
+      "weight": 10
+    },
+    {
+      "idRegexp": "schmirob.*",
+      "message": "Crunch time today, %s. The bus will leave at midnight.",
+      "weight": 10
+    },
+    {
+      "idRegexp": "schmirob.*",
+      "message": "Hey %s, can you come in on the weekend?",
+      "weight": 10
+    },
+    {
       "idRegexp": "mikejberg.*",
       "timeRegexp": ".* Aug 02,.*",
       "message": "Did you take the wrong bus stop again, %s?",
