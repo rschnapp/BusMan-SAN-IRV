@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Early departure today",
-      "timeRegexp": ".* Sep 12, 2019 .*",
+      "timeRegexp": ".* Oct 03, 2019 .*",
       "message": "Hi, %s! Remember, 5 oh clock departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 12, 2019 .*",
+      "timeRegexp": ".* Oct 03, 2019 .*",
       "message": "Departure at five today, %s.",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Sep 12, 2019 .*",
+      "timeRegexp": ".* Oct 03, 2019 .*",
       "message": "Be on the bus by five today, %s",
       "weight": 75
     },
@@ -364,6 +364,26 @@
     {
       "idRegexp": "schmirob.*",
       "message": "Hey %s, can you come in on the weekend?",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tsenseth.*",
+      "message": "Oh no, it's a travesty!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tsenseth.*",
+      "message": "No country music on the bus, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tsenseth.*",
+      "message": "Drop down and give me fifty, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tsenseth.*",
+      "message": "Go sit with the mean kids in the back, %s!",
       "weight": 10
     },
     {
@@ -1216,19 +1236,19 @@
     
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Sep 11, 2019 .*",
+      "timeRegexp": ".* Oct 02, 2019 .*",
       "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Sep 11, 2019 .*",
+      "timeRegexp": ".* Oct 02, 2019 .*",
       "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Sep 11, 2019 .*",
+      "timeRegexp": ".* Oct 02, 2019 .*",
       "message": "Be on the bus by 5 tomorrow, %s!",
       "weight": 75
     },
