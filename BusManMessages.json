@@ -367,22 +367,22 @@
       "weight": 10
     },
     {
-      "idRegexp": "tsenseth.*",
+      "idRegexp": "tstenseth.*",
       "message": "Oh no, it's a travesty!",
       "weight": 10
     },
     {
-      "idRegexp": "tsenseth.*",
+      "idRegexp": "tstenseth.*",
       "message": "No country music on the bus, %s!",
       "weight": 10
     },
     {
-      "idRegexp": "tsenseth.*",
+      "idRegexp": "tstenseth.*",
       "message": "Drop down and give me fifty, %s!",
       "weight": 10
     },
     {
-      "idRegexp": "tsenseth.*",
+      "idRegexp": "tstenseth.*",
       "message": "Go sit with the mean kids in the back, %s!",
       "weight": 10
     },
@@ -1413,6 +1413,36 @@
       "weight": 25
     },
     {
+      "idRegexp": "tstenseth.*",
+      "message": "Oh no, it's a travesty!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "No country music on the bus, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Drop down and give me fifty, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Go sit with the mean kids in the back, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Did you make people suffer today, Travesty?",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "I can hear faint crying from the gym, %s.",
+      "weight": 10
+    },
+    {
       "idRegexp": "garth.*",
       "timeRegexp": ".* Apr 01,.*",
       "message": "Yo %s! Rock on home, dude!",
@@ -1680,6 +1710,36 @@
     {
       "message": "Hey, %s, I don't see you on the list.",
       "dejaVu": "f"
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Oh no, it's a travesty!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "No country music on the bus, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Drop down and give me fifty, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Go sit with the mean kids in the back, %s!",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "Did you make people suffer today, Travesty?",
+      "weight": 10
+    },
+    {
+      "idRegexp": "tstenseth.*",
+      "message": "I can hear faint crying from the gym, %s.",
+      "weight": 10
     },
     {
       "message": "You were not on the list, %s,",
