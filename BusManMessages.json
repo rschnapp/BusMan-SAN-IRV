@@ -2,19 +2,19 @@
   "welcomeMessages": [
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
-      "comment-too": "Early departure today",
-      "timeRegexp": ".* Nov 14, 2019 .*",
-      "message": "Hi, %s! Remember, 5 oh clock departure today",
+      "comment-too": "Late departure today",
+      "timeRegexp": ".* Jan 16, 2020 .*",
+      "message": "Hi, %s! Remember, 5 30 departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 14, 2019 .*",
-      "message": "Departure at five today, %s.",
+      "timeRegexp": ".* Jan 16, 2020 .*",
+      "message": "Departure at five thirty today, %s.",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Nov 14, 2019 .*",
-      "message": "Be on the bus by five today, %s",
+      "timeRegexp": ".* Jan 16, 2020 .*",
+      "message": "Be on the bus by five thirty today, %s",
       "weight": 75
     },
     {
@@ -1175,7 +1175,8 @@
     },
     {
       "timeRegexp": ".* Jul 12, 2018 .*",
-      "message": "Hi, %s. Remember that there will be no bus tomorrow because of our summer picnic!",
+      "message": "Hi, %s. Remember that there will be no bus 
+      ow because of our summer picnic!",
       "weight": 150
     },
     {
@@ -1235,21 +1236,21 @@
     },
     
     {
-      "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Nov 13, 2019 .*",
-      "message": "Good evening, %s. We will be leaving at 5 tomorrow!",
+      "comment": "Late departure warning for next day",
+      "timeRegexp": ".* Jan 15, 2020 .*",
+      "message": "Good evening, %s. We will be leaving at 5 30 tomorrow!",
+      "weight": 75
+    },
+    {
+      "comment": "Late departure warning for next day",
+      "timeRegexp": ".* Jan 15, 2020 .*",
+      "message": "Hi, %s. Bus leaves at 5 30 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Nov 13, 2019 .*",
-      "message": "Hi, %s. Bus leaves at 5 oh clock tomorrow!",
-      "weight": 75
-    },
-    {
-      "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Nov 13, 2019 .*",
-      "message": "Be on the bus by 5 tomorrow, %s!",
+      "timeRegexp": ".* Jan 15, 2019 .*",
+      "message": "Be on the bus by 5 30 tomorrow, %s!",
       "weight": 75
     },
 
