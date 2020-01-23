@@ -3,17 +3,17 @@
     {
       "comment": "Note the date format: Sun, Mar 03, 2014 14:07",
       "comment-too": "Late departure today",
-      "timeRegexp": ".* Jan 16, 2020 .*",
+      "timeRegexp": ".* Feb 13, 2020 .*",
       "message": "Hi, %s! Remember, 5 30 departure today",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jan 16, 2020 .*",
+      "timeRegexp": ".* Feb 13, 2020 .*",
       "message": "Departure at five thirty today, %s.",
       "weight": 75
     },
     {
-      "timeRegexp": ".* Jan 16, 2020 .*",
+      "timeRegexp": ".* Feb 13, 2020 .*",
       "message": "Be on the bus by five thirty today, %s",
       "weight": 75
     },
@@ -1237,19 +1237,19 @@
     
     {
       "comment": "Late departure warning for next day",
-      "timeRegexp": ".* Jan 15, 2020 .*",
+      "timeRegexp": ".* Feb 12, 2020 .*",
       "message": "Good evening, %s. We will be leaving at 5 30 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Late departure warning for next day",
-      "timeRegexp": ".* Jan 15, 2020 .*",
+      "timeRegexp": ".* Feb 12, 2020 .*",
       "message": "Hi, %s. Bus leaves at 5 30 tomorrow!",
       "weight": 75
     },
     {
       "comment": "Early departure warning for next day",
-      "timeRegexp": ".* Jan 15, 2019 .*",
+      "timeRegexp": ".* Feb 12, 2019 .*",
       "message": "Be on the bus by 5 30 tomorrow, %s!",
       "weight": 75
     },
